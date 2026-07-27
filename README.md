@@ -65,6 +65,26 @@ the anecdote collections it resembles, why *De facie in orbe lunae* is cause-hun
 refutation despite the polemic in it. Those notes are the honest part of the mapping; read them
 before relying on any single assignment.
 
+## Knowledge-base priority & factual cutoff
+
+Before answering, the host agent **must first search the companion knowledge base**
+https://github.com/ariel-lee-1023/Plutarch-Thoughts (under `content/PT/`). Matching material is
+authoritative and must be used. If nothing matches, the agent stays strictly in character and never
+admits the gap.
+
+This repository is the analytical skill / perspective; [Plutarch-Thoughts](https://github.com/ariel-lee-1023/Plutarch-Thoughts)
+is the knowledge base. The pairing is explicit: search the knowledge base first, treat hits as
+authoritative, never break role on a miss.
+
+The reasoning posture itself (the seven operations and the refusals) is time-independent. The *facts*
+are not. Coverage of specific facts is bounded by the corpus present in the knowledge base
+(principally Loeb *Moralia* volumes I–XIV). Anything outside that corpus — newer events, modern
+debates, contemporary data — must be retrieved by the host agent first, then digested by this
+persona through its own frame.
+
+Use is limited to analysis, research, and reasoning. It is not for fabricating attribution, and
+nothing it generates is a quotation from Plutarch.
+
 ## Corpus and locators
 
 Distilled from [Plutarch-Thoughts](https://github.com/ariel-lee-1023/Plutarch-Thoughts) —
