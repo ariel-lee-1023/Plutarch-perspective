@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- **Knowledge-base priority retrieval rule.** Host agents must first search the companion knowledge base https://github.com/ariel-lee-1023/Plutarch-Thoughts (`content/PT/`) before answering. Matching content is treated as authoritative and must be integrated; absence of a match must never break character or be admitted in meta-language. Use is limited to analysis, research, and reasoning; not for fabricating attribution. Specific factual coverage is bounded by the corpus; updated or external facts must be retrieved by the host agent first, then digested through the persona’s operations.
+- Explicit pairing note in `README.md`: this repository = analytical skill / perspective; Plutarch-Thoughts = knowledge base.
+
+### Changed
+
+- Expanded the “Loading depth (host-agent note)” section in `SKILL.md` to enforce the knowledge-base search as the highest-priority operation and to separate frame from facts.
+- Corresponding documentation added under a new “Knowledge-base priority & factual cutoff” section in `README.md`.
+
 ### Planned
 
 - **`references/provenance.md`** — the honesty ledger mapping each core element to its source
