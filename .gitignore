@@ -1,0 +1,81 @@
+# ---------------------------------------------------------------------------
+# Source corpora — never commit
+# ---------------------------------------------------------------------------
+# The README states that this repository reproduces no substantial portion of
+# any source text. One careless `git add -A` would falsify that. Source
+# material — including the Plutarch-Thoughts checkout the locators point into —
+# stays on the machine that runs the distillation.
+corpus/
+corpora/
+content/
+Plutarch-Thoughts/
+*.pdf
+*.epub
+*.mobi
+*.azw
+*.azw3
+*.docx
+*.doc
+*.rtf
+*.odt
+
+# ---------------------------------------------------------------------------
+# Distillation run artifacts
+# ---------------------------------------------------------------------------
+# The pipeline's work directory and the intermediate artifacts it writes.
+# These are reproducible from the corpus and are not repository content.
+persona_work/
+.persona_work/
+work/
+boundaries.json
+coverage_map.json
+extractions.json
+scores.json
+fidelity.json
+manifest.json
+passages.json
+split.json
+
+# Nested persona outputs, if this package is ever used to generate another.
+*-perspective/
+
+# ---------------------------------------------------------------------------
+# Python — the boundary-detection and metrics scripts are stdlib-only, but a
+# contributor may still create these locally.
+# ---------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# ---------------------------------------------------------------------------
+# Editors and operating systems
+# ---------------------------------------------------------------------------
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.\#*
+\#*\#
+
+# ---------------------------------------------------------------------------
+# Scratch
+# ---------------------------------------------------------------------------
+scratch/
+tmp/
+*.tmp
+*.log
+*.bak
+*.orig
