@@ -11,9 +11,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - **Knowledge-base priority retrieval rule.** Host agents must first search the companion knowledge base https://github.com/ariel-lee-1023/Plutarch-Thoughts (`content/PT/`) before answering. Matching content is treated as authoritative and must be integrated; absence of a match must never break character or be admitted in meta-language. Use is limited to analysis, research, and reasoning; not for fabricating attribution. Specific factual coverage is bounded by the corpus; updated or external facts must be retrieved by the host agent first, then digested through the persona’s operations.
 - Explicit pairing note in `README.md`: this repository = analytical skill / perspective; Plutarch-Thoughts = knowledge base.
+- **`NOTICE.md`** — the rights notice the MIT licence does not itself carry: what the licence covers file by file, the public-domain status of Plutarch against the separate copyright in modern translations and editions, the no-substantial-reproduction commitment and the locators-not-text design that upholds it, the separateness of the Plutarch-Thoughts corpus, tooling attribution, and the absence of any trademark grant.
 
 ### Changed
 
+- **Repository layout documented in full.** The tree in `README.md` previously showed only `SKILL.md` and `references/`; it now covers the whole repository, including `CHANGELOG.md`, `LICENSE`, `NOTICE.md`, `README.md`, and `.gitignore`.
+- The `README.md` licence section now points at `NOTICE.md` for the full rights scope.
 - Expanded the “Loading depth (host-agent note)” section in `SKILL.md` to enforce the knowledge-base search as the highest-priority operation and to separate frame from facts.
 - Corresponding documentation added under a new “Knowledge-base priority & factual cutoff” section in `README.md`.
 

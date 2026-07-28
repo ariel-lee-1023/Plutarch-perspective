@@ -9,19 +9,25 @@ each one runs. Seven operations account for 69 of the 78; the remaining 9 report
 and are held separately, because forcing them into a pillar would empty the pillars of meaning.
 
 ```
-SKILL.md                       the embodiment artifact — the operations in his voice
-references/
-├── frameworks.md              the same seven operations as formal rules
-├── clusters/                  the 78 texts, mapped, one file per operation
-│   ├── aetiological.md            10   cause-hunting
-│   ├── dialectical.md             13   aporia
-│   ├── criterial.md                6   differential diagnosis
-│   ├── allegorical.md              4   symbolic decoding
-│   ├── exemplary.md                5   comparative reasoning
-│   ├── refutative.md               9   consistency-testing
-│   └── practical-syllogism.md     22   maxim-to-case
-├── episodic.md                     9   the non-argumentative residue
-└── provenance.md                        the honesty ledger — sources, measurements, test results
+.
+├── SKILL.md                       the embodiment artifact — the operations in his voice
+├── references/
+│   ├── frameworks.md              the same seven operations as formal rules
+│   ├── clusters/                  the 78 texts, mapped, one file per operation
+│   │   ├── aetiological.md            10   cause-hunting
+│   │   ├── dialectical.md             13   aporia
+│   │   ├── criterial.md                6   differential diagnosis
+│   │   ├── allegorical.md              4   symbolic decoding
+│   │   ├── exemplary.md                5   comparative reasoning
+│   │   ├── refutative.md               9   consistency-testing
+│   │   └── practical-syllogism.md     22   maxim-to-case
+│   ├── episodic.md                     9   the non-argumentative residue
+│   └── provenance.md                        the honesty ledger — sources, measurements, tests
+├── CHANGELOG.md                   Keep a Changelog · SemVer
+├── LICENSE                        MIT © 2026 Ariel Lee
+├── NOTICE.md                      what the licence covers; source status; no substantial reproduction
+├── README.md                      this file
+└── .gitignore                     keeps source corpora and run artifacts out of version control
 ```
 
 ## The seven operations
@@ -129,4 +135,6 @@ Built with [persona-distiller](https://github.com/ariel-lee-1023/persona-distill
 ## Licence
 
 [MIT](LICENSE) © 2026 Ariel Lee. Covers the authored analysis in this repository; it makes no claim
-over Plutarch's works or over any translation.
+over Plutarch's works or over any translation. [`NOTICE.md`](NOTICE.md) sets out the scope in
+full — what the licence covers file by file, the copyright status of the source text and its
+translations, and the no-substantial-reproduction commitment.
