@@ -19,17 +19,49 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Planned
 
-- **`references/provenance.md`** — the honesty ledger mapping each core element to its source
-  treatises and clusters, with projection scores and cost-gate status. Without it the package is
-  usable but not fully auditable; it is the one artifact the distillation pipeline specifies that
-  this release does not ship.
-- **Held-out projection and style-match verification.** The voice-purity and cost-presence gates
-  were run before assembly and pass. The two statistical fidelity tests were not run, so no scores
-  are claimed anywhere in the package.
+- **A blinded projection test.** The projection check in `references/provenance.md` §5 was run but
+  not blinded, and its score is explicitly not offered as a fidelity number. A valid test needs a
+  second party predicting from `SKILL.md` alone.
 - **Fold-in of the *Parallel Lives*.** The source corpus carries only the *Moralia*, which leaves the
   frame without the biographer and leaves operation 5 (exemplary / comparative reasoning) resting on
   5 texts. Folding in the *Lives* would re-weight that operation substantially and would be an
   incremental re-curation, not a rewrite.
+
+## [1.1.0] — 2026-07-28
+
+Expression habits distilled and measured, not just thought patterns; the honesty ledger added.
+
+### Added
+
+- **`references/provenance.md`** — the honesty ledger the pipeline specifies. Traces every core
+  element to its source treatises and clusters, records the measured expression features, reports
+  all fidelity results with their caveats, and lists where the persona should be trusted less.
+- **Measured expression features.** `style_metrics.py` was run over the whole corpus, over each of
+  the eight clusters, over each of the fourteen volumes, and per treatise, using a slicing of all 78
+  texts at the detected boundaries.
+- **A translator control.** The corpus is a composite English translation — per-volume mean sentence
+  length ranges 29.8–49.6 words, a spread as wide as anything separating the operations, and the
+  clusters are not volume-independent. Per-cluster contrasts were therefore re-tested *within*
+  single volumes, and only findings that survived became voice rules. Sentence rhythm and
+  punctuation were measured and **discarded** as translator artifacts.
+
+### Changed
+
+- **`SKILL.md` — *How I sound* rewritten and roughly doubled**, from impressionistic description to
+  measured rules carrying their modulation: the interrogative as the mode of address to a datum and
+  where it stops; second person rising in counsel and collapsing in refutation; first person steady
+  everywhere except deed-marshalling; flat assertion doubling when look-alikes are separated while
+  hedging continues underneath; exempla density at two or three named instances per page; and the
+  absence of any abstract-systemic vocabulary, which is the strongest translation-robust finding in
+  the corpus.
+- Body grew to ≈3,900 tokens, still well inside the 5,000 budget and still front-loaded.
+
+### Fixed
+
+- Three defects in the expression rules, each found by a failing style-match round and corrected
+  before the next: long sentences were under-specified; "the qualifiers drop away" overstated the
+  effect and produced samples with zero hedging against an actual rate of 6.26/1k; and the missing
+  exempla-density rule had left generated prose at 51% first-person reference against an actual 23%.
 
 ## [1.0.0] — 2026-07-27
 
@@ -85,5 +117,6 @@ the embodiment artifact that states those operations in voice.
   (*Parallela minora*, *Placita philosophorum*). The residue verdict does not depend on that doubt,
   and would stand if both were genuine.
 
-[Unreleased]: https://github.com/ariel-lee-1023/Plutarch-perspective/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/ariel-lee-1023/Plutarch-perspective/compare/v1.1.0...HEAD
+[1.1.0]: https://github.com/ariel-lee-1023/Plutarch-perspective/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/ariel-lee-1023/Plutarch-perspective/releases/tag/v1.0.0

@@ -1,0 +1,244 @@
+# Provenance — the honesty ledger
+
+Everything the core `SKILL.md` is not allowed to contain: where each element came from, what was
+measured, what was tested, what failed, and where the persona should be trusted less.
+
+The core is written in voice with no hedging by design. That is a placement decision, not a
+suppression: the caveats all live here, and this file is meant to be read by anyone deciding how
+much weight the persona can carry.
+
+---
+
+## 1. The confound that governs everything below
+
+**The corpus is an English translation, and a composite of at least two translators.** Volumes I–XII
+read as modern Loeb prose; Volume XIII and parts of XIV carry archaic forms (*hath*, *doth*,
+*Pinder's Caeneus hath been taken to task*) from an older translation lineage. Measured per volume,
+mean sentence length ranges **29.8 → 49.6 words** and the hedge:booster ratio **1.20 → 3.44** — a
+spread as wide as anything separating the seven operations.
+
+Consequences, applied throughout this file:
+
+| Feature class | Survives translation? | Weight given |
+|---|---|---|
+| Interrogative density (question rate) | **Yes** — sentence *type* is preserved | High |
+| Person reference (I / you / he) | **Yes** — grammatical person is preserved | High |
+| Conceptual vocabulary present/absent | **Yes** — what he has words *for* | High |
+| Exempla density (named man + act) | **Yes** — content, not syntax | High |
+| Hedge / booster rates | **Partly** — lexical choice, translator-influenced | Medium |
+| Sentence length, punctuation rhythm, lexical diversity | **No** — these are the translators' | Low / discarded |
+
+Every expression rule in the core's *How I sound* is drawn from the high- and medium-weight rows.
+The low-weight rows were measured, reported here, and deliberately **not** turned into voice rules,
+except for the single global claim that very short and very long sentences sit adjacent — which
+rests on the corpus-wide spread (p10 = 12 words, p90 = 74) rather than on any per-cluster contrast.
+
+Clusters are also **not volume-independent** — six of nine refutative texts sit in Volumes XIII–XIV —
+so per-cluster differences were re-tested *within* single volumes, where the translator is held
+constant. Only findings that survived that control were promoted to voice rules. See §4.
+
+---
+
+## 2. Corpus and coverage
+
+| | |
+|---|---|
+| Source | [Plutarch-Thoughts](https://github.com/ariel-lee-1023/Plutarch-Thoughts), `content/PT/Moralia/` |
+| Extent | Loeb *Moralia* volumes I–XIV — the complete 78-treatise canon |
+| Size | 4,401,331 chars · 779,742 words · 19,575 sentences |
+| Attribution | **Firsthand** throughout (Plutarch's own works in translation); no secondhand or commentary material |
+| Segmentation | 78 treatises, boundaries recovered by title-string detection, monotonic within each volume, machine-verified — no duplicates, no omissions |
+| **Not covered** | **The *Parallel Lives*.** `content/PT/Parallel-Lives/` contains only a `.gitkeep`. |
+
+Coverage by operation (words, and share of the argumentative corpus):
+
+| Cluster | Texts | Words | Share | Density |
+|---|---|---|---|---|
+| aetiological | 10 | 201,959 | 25.9% | thickest — Table-Talk alone is 430K chars |
+| practical-syllogism | 22 | 168,397 | 21.5% | thickest by text count |
+| episodic (residue) | 9 | 100,940 | 13.0% | excluded from style measurement |
+| refutative | 9 | 96,796 | 12.4% | |
+| dialectical | 13 | 84,533 | 10.8% | |
+| allegorical | 4 | 46,140 | 6.0% | thin |
+| criterial | 6 | 43,654 | 5.6% | thin but high-signal |
+| **exemplary** | **5** | **37,323** | **4.8%** | **thinnest — see §6** |
+
+Dialogue-vs-monologue: substantial dialogue (Table-Talk, *Amatorius*, *De E*, *De defectu*,
+*De genio*, *De sera*, *De sollertia*), so the interactional pass was run at full weight rather than
+down-weighted as it would be for a monologic corpus.
+
+---
+
+## 3. Core element ledger
+
+Each element of `SKILL.md` traced to the treatises that evidence it. **Cost** column: whether the
+element is an attested incentive-vs-characteristic divergence, and whether it reached the core.
+
+### What I will not concede — the cost-bearing refusals
+
+| Element | Sources | Clusters | Convenient move | Attested move | Cost | In core |
+|---|---|---|---|---|---|---|
+| Superstition worse than atheism | 14 *De superstitione* | criterial | A Delphic priest defends piety of every kind | Ranks superstition **below** atheism as the graver error | **High** | ✅ |
+| The oracle has declined | 28 *De Pythiae oraculis*, 29 *De defectu* | aetiological | Defend the institution he serves | Concedes the decline and hunts its cause; entertains depopulation | **High** | ✅ |
+| Beasts reason | 66 *De sollertia*, 67 *Gryllus*, 68 *De esu carnium* | dialectical, exemplary, refutative | Accept Stoic orthodoxy that beasts are irrational | Argues they deliberate and hold virtues untaught; draws the dietary consequence | **High** | ✅ |
+| Virtue one and the same in a woman | 19 *Mulierum virtutes*, 12 *Coniugalia*, 50 *Amatorius* | exemplary, practical, dialectical | Praise women in a separate and lesser register | States the identity thesis in the preface and makes the deeds carry it | **High** | ✅ |
+| No rescuing a poet by allegory | 2 *De audiendis poetis* | practical | Use the available Stoic escape hatch for immoral passages | Declines allegoresis; teaches the young reader to see and judge instead | **High** | ✅ |
+| No paraphrasing an opponent | 72 *De Stoicorum repugnantiis*, 74 *De comm. notitiis* | refutative | Summarise the rival into a weaker form | Quotes at length where the contradiction depends on wording | **High** | ✅ |
+| Charm buys a historian nothing | 60 *De Herodoti malignitate* | refutative | Leave the canonical historian alone | Goes through him city by city; separates evidential failure from internal conflict | **High** | ✅ |
+| Whose boots are overhead | 55 *Praecepta gerendae reipublicae* | practical | Flatter Greek civic pride | Tells Greek officials they govern under supervision | **High** | ✅ |
+
+**Cost gate: 8 divergences enumerated, 8 slated for core, 8 present in the assembled core, 0 logged
+out, 0 missing unlogged. Presence assertion: PASS.**
+
+### How I read a question — the projectible regularities
+
+| Element | Core section | Sources (representative) | Clusters | Note |
+|---|---|---|---|---|
+| Rank causes, don't settle | How I read a question | 20, 21, 62, 49, 29 | aetiological | ≥2 independent clusters; the §1 termination condition |
+| Build both limbs, allow openness | " | 23, 50, 66, 69 | dialectical | Openness is structural in 23 and 66 |
+| Work by sign, not definition | " | 4, 5, 42, 14 | criterial | The cheapness criterion is stated in 4 |
+| Decode to doctrine, spend every detail | " | 26, 27, 70 | allegorical | Rival keys rejected by name in 26 |
+| Pair particulars to control the inference | " | 19, 24, 59 | exemplary | Thin — 5 texts; see §6 |
+| Set a rival against himself | " | 72, 74, 75, 76, 77 | refutative | Internal / performative / preanalytic tests all attested |
+| Grant the maxim, spend on the descent | " | 55, 12, 1, 32 | practical | Availability constraint explicit in 32 and 41 |
+
+### How I move in an exchange
+
+| Element | Sources | Clusters | Note |
+|---|---|---|---|
+| Give the last and best answer to another | 27 (Ammonius), 46, 49 | allegorical, aetiological | Interactional; dialogue-attested |
+| Restate the weak case more strongly first | 50, 66 | dialectical | The §2 requirement, performed |
+| Decline the verdict, hand over ranked causes | 20, 21, 64 | aetiological | Reluctance presented as the answer, not as modesty |
+| Let a guest's poorer answer stand | 49 | aetiological | Single-cluster — thinner than the rest of this section |
+
+---
+
+## 4. Measured expression features
+
+Aggregate over the 69 argumentative texts (episodic excluded):
+
+```
+sentence length   mean 39.8 · median 33 · stdev 30.5 · p10 12 · p90 74
+hedges/1k 5.43    boosters/1k 3.12    hedge:booster 1.74
+person ref        first 20.6%  second 7.5%  third 71.9%
+lexical diversity MATTR-500 0.496
+top content       one, said, man, men, things, upon, himself, many, time, reason
+absent            work, problem, idea, system, important, social, political
+```
+
+The **absent** row is the highest-value single finding here, and it is translation-robust: he has no
+abstract-systemic vocabulary at all. That negative fingerprint became a core voice rule.
+
+### Modulation, and which patterns survived the within-volume control
+
+| Pattern | Raw cluster contrast | Survived control? | In core |
+|---|---|---|---|
+| Questions densest in cause-hunting, near-absent in decoding | aet 6.02/1k vs allegorical 0.69/1k; extremes t62 17.7, t20 17.6 | **Yes** — strongest and most robust finding | ✅ |
+| Second person peaks in counsel, collapses in refutation and deed-marshalling | pra 9.5% / cri 11.6% vs ref 5.6% / exe 8.8%; Vol VI clean: pra 11.6 & dia 11.5 vs ref 1.2 & exe 1.0 | **Yes** — Vol VI holds translator constant | ✅ |
+| Flat assertion roughly doubles when discriminating look-alikes | cri boosters 5.59/1k vs corpus 3.12; Vol I cri 5.95 vs pra 4.22; Vol VII cri 5.46 vs pra 4.04, aet 3.01 | **Yes** in 2 of 3 testable volumes (Vol II flat) | ✅ |
+| First person steady everywhere except deed-marshalling | aet 26.4% / pra 23.2% / ref 20.2% vs exe 12.3% | **Yes** | ✅ |
+| Third-person dominance from exempla density | 71.9% corpus-wide | **Yes** | ✅ |
+| Sentence length varies by operation | pra 47.4 vs epi 31.4 | **No** — direction reverses between volumes (Vol VI: exe longest; Vol XII: exe shortest) | ❌ discarded |
+| Em-dash / parenthetical peak in refutation | ref 2.36 / 3.11 vs exe 1.06 / 0.36 | **No** — tracks Volumes XIII–XIV, i.e. the translator | ❌ discarded |
+
+---
+
+## 5. Fidelity results
+
+### Cost gate — **PASS** (run pre-assembly and re-verified post-assembly)
+8 of 8 high-signal divergences present in the core. Nothing logged out. This is the check that most
+often fails silently and leaves a persona articulate but generic; it holds here by construction.
+
+### Voice purity gate — **PASS**
+Body checked mechanically against the ban list (`based on`, `seems to`, `tends to`, `may have`,
+`the author`, `according to`, `the corpus`, …). No banned construction in the voice sections. Meta
+is confined to the closing host-agent block. Body ≈ 3,600 tokens against a 5,000 budget.
+
+### Style-match test — **PARTIAL / NOT PASSED**
+
+Three samples generated under the core's expression rules (a cause-hunt, a contested diagnosis, a
+refutation) and measured against the corresponding cluster originals. Three rounds were run, with
+the expression rules revised between rounds — the loop `fidelity-tests.md` prescribes.
+
+| Round | Change made to the rules | Mean abs. delta |
+|---|---|---|
+| 1 | — (initial rules) | 62% |
+| 2 | Long sentences specified as *very* long; "qualifiers drop away" corrected to "flat strokes are laid **over** continuing hedging"; person rules corrected | 62% |
+| 3 | **Exempla density added as an explicit rule** (2–3 named instances per page) | **43%** |
+
+Round 3 residuals against cluster originals:
+
+| | question/1k | hedge/1k | booster/1k | 1st % | 3rd % | sentence len |
+|---|---|---|---|---|---|---|
+| cause-hunt | +33% | +95% | +144% | +63% | −15% | **−1%** |
+| diagnosis | +64% | −51% | +55% | **+6%** | +12% | −45% |
+| refutation | +40% | −55% | −55% | +48% | **−4%** | −32% |
+
+**What passed:** the question-rate ordering across the three registers reproduces exactly
+(cause-hunt > refutation > diagnosis), and the exempla rule corrected person-reference — the
+diagnosis sample went from 51.4% first-person (against 23.0% actual) to 24.5%.
+
+**What did not:** absolute hedge and booster rates remain far off, three of four modulation
+orderings do not reproduce, and generated sentences run 30–45% shorter than the originals outside
+the cause-hunt register.
+
+**Why the loop was stopped at three rounds rather than continued:** the residual gap sits almost
+entirely in the feature classes §1 identifies as *translator artifacts* — sentence length,
+subordination depth, and lexical hedge/booster choice. Further iteration would tune generated prose
+toward the cadence of a particular 20th-century translator rather than toward Plutarch. The
+translation-robust features (question density and its ordering, person reference, exempla density,
+absent vocabulary) are the ones that converged, and they are the ones the core encodes.
+
+**Read this as:** the persona reliably reproduces *what kind of sentence* he writes and *who is in
+it*; it does not reproduce the period cadence of the Loeb prose, and should not be expected to.
+
+### Projection check — **RUN, BUT NOT BLINDED. Do not read as a fidelity score.**
+
+Eight treatises whose content had not been read during distillation (located by title-string only)
+were used as a masked set, with predictions committed in writing before the texts were opened, plus
+one structural probe. Scored 2 / 1 / 0.
+
+| Probe | Predicted | Outcome | Score |
+|---|---|---|---|
+| 41 *De vitioso pudore* — is compliancy cured by resolve? | No; the maxim is unavailable at the moment of the ask | Confirmed — Creon "expressed a maxim for others to use, but succumbed to pressure himself" | 2 |
+| 43 *De se ipsum laudando* — is self-praise permissible? | Yes, occasion by occasion, incl. when wronged | Confirmed — "even more permissible for a statesman when wronged" | 2 |
+| 53 *Ad principem ineruditum* — source of legitimacy? | Reason within the ruler, via a divine-image relation | Right stance; the image relation runs ruler↔God, not law↔reason as predicted | 1 |
+| 57 *De vitando aere alieno* — borrowing to relieve poverty? | No exception; sell instead; attacks the debtor's self-deception | Confirmed — "ashamed to accept a price, but not ashamed to pay interest on what is their own" | 2 |
+| 34 *De fraterno amore* — should the abler brother defer? | Yes, yield precedence voluntarily | Confirmed (Polydeuces, the deferred candidature); the "costs little" qualifier was wrong | 2 |
+| 39 *De curiositate* — cured by argument? | No; averting practice and redirected appetite | Appetite-misdirection framing confirmed; therapy-by-practice not evidenced in retrieved passages | 1 |
+| 47 *De exilio* — is exile an evil? | Not in itself; opinion makes it so; redescription | Confirmed — "wholly and entirely a figment of unfounded opinion" | 2 |
+| 42 *De invidia et odio* — can one envy a bad man? | No; hatred takes the vicious, envy the fortunate | Confirmed — "to attract envy all that is required is apparent prosperity" | 2 |
+| P9 — does he usually settle on one cause? | No; ranked and left open | Direction supported (366 question marks, 98 explicit alternative-openers in *Aetia Romana*); verdict rate not cleanly measured | 1 |
+
+**15 / 18 = 0.83.** This number is reported for completeness and should be **discounted heavily**.
+The operator holds prior knowledge of Plutarch from outside this corpus and cannot self-blind, so
+the masking is partial: it withheld the session's reading, not the operator's background. Treat 0.83
+as an upper bound and as an internal-consistency check, not as evidence the regularities generalize.
+A valid projection score requires a second party who has not read Plutarch to run the predictions
+from `SKILL.md` alone. **That test has not been run.**
+
+---
+
+## 6. Where to trust this persona less
+
+1. **Anything requiring the biographer.** The *Lives* are absent. Comparative judgment of characters
+   — the operation most readers associate with Plutarch — rests on 5 texts and 4.8% of the corpus.
+   This is the single largest gap, and the fix is a fold-in, not a rewrite.
+2. **Prose cadence.** Per the style test, the persona does not reproduce Loeb sentence rhythm, and
+   the corpus cannot teach it to, because that rhythm is the translators'.
+3. **Generalization is unverified.** See the projection caveat immediately above.
+4. **Single-cluster elements.** "Let a guest's poorer answer stand" rests on Table-Talk alone; it is
+   attested but not corroborated across independent clusters, unlike everything else in the core.
+5. **The two contested mappings.** *De esu carnium* (filed refutative) and the
+   *De animae procreatione* pair (filed allegorical) are the assignments most likely to be wrong;
+   both are argued in their cluster files' boundary notes.
+6. **Anything outside the corpus.** The frame is time-independent; the facts are not. Specific
+   factual claims beyond the *Moralia* are outside what this distillation can support.
+
+## 7. Reproducing this
+
+Boundary detection, slicing, and metrics were run from the corpus with stdlib-only scripts
+(`style_metrics.py` from persona-distiller). Intermediate artifacts — the sliced corpus, per-file
+metrics, and the committed predictions — were kept outside version control by design; this
+repository holds no substantial portion of the source text. Re-running requires a local checkout of
+Plutarch-Thoughts and reproduces the treatise offsets recorded in `clusters/`.

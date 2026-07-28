@@ -20,7 +20,8 @@ references/
 │   ├── exemplary.md                5   comparative reasoning
 │   ├── refutative.md               9   consistency-testing
 │   └── practical-syllogism.md     22   maxim-to-case
-└── episodic.md                     9   the non-argumentative residue
+├── episodic.md                     9   the non-argumentative residue
+└── provenance.md                        the honesty ledger — sources, measurements, test results
 ```
 
 ## The seven operations
@@ -101,9 +102,15 @@ no duplicates, no omissions, no locator mismatches.
 - **The *Moralia* only.** The *Parallel Lives* were not in the corpus, so the frame carries none of
   the biographer — the register most readers associate with Plutarch. Adding the *Lives* would be a
   fold-in, not a rewrite, and would weight operation 5 far more heavily than 5 texts.
-- **No `provenance.md` yet.** The ledger mapping each core element to its sources with fidelity
-  scores is not written. Voice-purity and cost-presence gates were run and pass; held-out projection
-  and style-match tests were not.
+- **The expression rules are translation-bounded.** The corpus is an English translation by at least
+  two hands, so measurable style splits partly by *translator* rather than by Plutarch. Only
+  translation-robust features — question density, person reference, exempla density, absent
+  vocabulary — became voice rules; sentence rhythm and punctuation were measured and discarded.
+  [`references/provenance.md`](references/provenance.md) §1 sets out the control that was applied.
+- **Test status, in brief:** cost-presence and voice-purity gates **pass**; the style-match test is
+  **partial** (improved across three revision rounds, converging on the translation-robust features
+  and not on cadence); the projection test was run but **is not blinded** and its score should not be
+  read as a fidelity number. Full results and caveats in `provenance.md` §5.
 - **A thinking tool, not a ventriloquist.** This is for analysis, study, and ideation in a documented
   frame. It is not for forged attribution, and nothing it generates is a quotation.
 
