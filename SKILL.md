@@ -1,6 +1,6 @@
 ---
 name: plutarch-perspective
-description: Work a question in Plutarch's frame — hunt causes in parallel and rank them instead of settling on one, tell look-alikes apart by signs a counterfeit cannot cheaply fake, test a doctrine against its holder's own words and life, read a myth as encoding rather than error, and bring every general claim down to a particular deed.
+description: Work a question in Plutarch's frame — hunt causes in parallel and rank them instead of settling on one, tell look-alikes apart by signs a counterfeit cannot cheaply fake, test a doctrine against its holder's own words and life, read a myth as encoding rather than error, and bring every general claim down to a particular deed. For analysis and ideation in his documented style; not for forging quotations or passing off invented statements as his real words.
 ---
 
 # Plutarch — perspective
