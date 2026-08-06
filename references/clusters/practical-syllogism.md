@@ -64,6 +64,121 @@ rather than to the case, because the case cannot be altered.
 | 56 → | *De unius in republica dominatione* | — | Compares constitutional types rather than counselling a person; filed in `dialectical.md`. |
 | 57 | *De vitando aere alieno* | X · 214783 | One maxim — do not borrow — descended into the specific self-deceptions of the debtor. Protreptic, and short. |
 
+## The availability constraint, worked
+
+The constraint is not inferred — two texts state it as their design problem in their opening lines.
+
+*De garrulitate* names the difficulty before it names the vice: philosophy has a troublesome task in
+curing garrulousness, because **the remedy is words of reason, and the patient will not listen.**
+Everything after that is engineering around the obstacle. The cures are therefore physical, small,
+and pre-rehearsed: nature has stockaded the tongue behind the teeth, so that when reason within
+tightens the reins of silence and the tongue will not obey, you check it *by biting it till it
+bleeds*. The motivating observation is equally concrete — men in a portico who see a talker coming
+give each other the counter-sign to break camp. And the closing move is the constraint restated as a
+promise: practice is master of all things, since men rid themselves even of hiccoughs by resisting
+resolutely.
+
+*De cohibenda ira* solves the same problem by **rehearsal in advance of provocation**. The remedy has
+to be available to a man who is currently angry, so it cannot be an argument. What is supplied
+instead is a set of physical counter-moves, each attached to a named man doing them: Socrates, when
+he felt himself hardening toward a friend, would lower his voice, let a smile spread over his face,
+make his eyes gentler — *setting up within himself an influence to counteract his passion*. The
+first rule is negative and requires nothing of the reason at all: do not obey temper when it bids you
+cry aloud, look fierce, beat your breast; keep quiet, and do not intensify the passion by tossing
+about. The instruction is to treat oncoming anger like a fit of epilepsy you can feel coming — get
+away, conceal yourself, anchor in a calm harbour. And the frame of the whole essay is the painter who
+withdraws his gaze from the picture in order to see it fresh, since a man cannot step outside himself
+and is therefore a poorer judge of himself than of others.
+
+*De curiositate* supplies the most transferable version of the constraint, because it shows the
+**training schedule**: begin with the most trifling matters, since the disease itself grew little by
+little. Do not read the inscriptions on tombs as you pass along the road. Do not glance at the
+writing on walls when you take a walk — nothing is written there but *so-and-so wishing him well*
+and *the best of friends*, and reading them does no harm except that it imperceptibly instils the
+practice of searching out what does not concern you. Then the harder drills: when a letter is
+brought, do not open it quickly, as most do who bite through the fastenings when their teeth are too
+slow; when a messenger arrives, do not rush up or even rise; when a friend says *I have something new
+to tell you*, answer that you would prefer something useful. The exemplar is left for last and is
+first-hand — Rusticus, sitting in his audience in Rome, handed a letter from the emperor by a soldier
+who came through the crowd, and refusing to break the seal until the lecture was finished.
+
+**The shape to take from all three: name the obstacle that makes ordinary advice useless, then supply
+something small, physical, and practicable before the occasion arises, and anchor it to a named man
+who did it.**
+
+## The address constraint, worked
+
+The precept is pitched at a condition, never at mankind, and the corpus makes the point by
+contradiction across texts. What steadies the powerful undoes the powerless; what is right for a
+beginner is wrong for one further on.
+
+- **53 *Ad principem ineruditum*** opens with Plato refusing to legislate for the Cyrenaeans — the
+  address constraint dramatised as a refusal to write a rule for the wrong condition — and then
+  addresses a ruler who lacks the reason his office presupposes.
+- **55 *Praecepta gerendae reipublicae*** supplies the corpus's most famous instance of a rule pitched
+  at a precise political condition: the Greek magistrate must keep his eye on the orators' platform
+  and not take great pride in his crown, "since you see the boots of Roman soldiers just above your
+  head". The action supplied is not resignation but a manner — imitate the actors, who put their own
+  passion and character into the performance yet listen to the prompter and do not exceed the liberty
+  permitted by those in authority. The sanction is named too, in a countryman's fate: Pardalas and his
+  followers, who forgot their proper limitations.
+- **12 *Coniugalia praecepta*** shows the descent as pure enumeration — roughly forty-eight discrete
+  rules issued to one named pair on the occasion of their marriage, each small enough to be recalled.
+- **1 *De liberis educandis*** subdivides by *stage*: parentage, nursing, the choice of attendants,
+  tutors, exercise, the management of adolescence — a different rule for each, which is the address
+  constraint applied along a single life.
+
+Note the honest close of 1: putting all these suggestions into effect is the province of prayer or
+exhortation, and following most of them demands good fortune and much attention. **The counsel does
+not oversell its own reach**, and that admission is itself part of the register.
+
+## The redescription clause — 10, 47, 48
+
+Where nothing can be mended, the maxim is applied to the *account* of the case rather than to the
+case.
+
+*De exilio* is the clause at its clearest, because the fact is fixed and only its standing is open.
+The essay does not argue that banishment is pleasant; it locates the whole of the pain in opinion —
+the same event made useful to one man and harmful to another, "as it makes a coin pass current". Then
+it supplies a method rather than a consolation: things whose painfulness is "wholly and entirely a
+figment of unfounded opinion" are to be handled as one handles a child frightened by a mask — bring
+the mask close, put it into his hands, turn it about, and he learns to make light of it. The
+redescription proceeds by dismantling *native land* as a natural kind. It closes on particulars and
+not on a moral: Anaxagoras squaring the circle in prison, Socrates philosophising over the hemlock,
+against Phaëthon and Tantalus, who reached heaven and were destroyed there.
+
+*Consolatio ad uxorem* is the same operation stripped of all apparatus, and it is the most restrained
+writing in the corpus. There is no thesis and almost no third party. He learns of the death at Tanagra
+from his granddaughter, having missed the messenger; he supposes the funeral is already held; he
+wants it done so as to cause the least pain, and whatever else she needs done she shall have, so it
+be without excess or superstition — "faults to which you are not at all prone". The one request is
+the operation in a single sentence: **in your emotion, keep me as well as yourself within bounds.** He
+concedes the magnitude of the loss and can *set a measure* to it, and says plainly that extravagance
+of distress in her would be more grievous to him than the death itself. He was not born from oak or
+rock, and he says so. Then the child is described exactly — her mildness, and how she asked the nurse
+to give the breast to the other infants and to her playthings too, sharing her greatest pleasure with
+whatever gave her delight — and the redescription is put as a question rather than a doctrine: why
+should the things that delighted us while she lived distress us now?
+
+**Nothing here is denied and nothing is minimised.** What is redescribed is the standing of the loss
+in a life; never the loss.
+
+## Register
+
+Measured over the twenty-two texts: sentence length **47.4**, the longest of any cluster; second
+person **9.5%**, second only to diagnosis; questions 2.30/1k and 7.2% of sentences — low, because
+counsel is not a canvass; hedges 5.45/1k against boosters 3.51/1k.
+
+Within the cluster the letters to his own household invert almost every figure. *Consolatio ad
+uxorem* carries about **8 named persons per 1,000 words** — the lowest count measured anywhere in the
+corpus, against 63 in *De exilio* and 29 in *De garrulitate*. The exempla, which everywhere else are
+the argument, are absent precisely where the address is most intimate. **Writing to someone he loves,
+he stops citing.**
+
+Note also that the questions do not switch off in consolation the way they do in decoding: *De
+exilio* runs 22.9% interrogative, among the highest in the corpus, because redescription proceeds by
+asking what has actually been lost.
+
 ## Boundary notes
 
 - **Size is not a defect of the mapping.** This cluster is large because the corpus is largely

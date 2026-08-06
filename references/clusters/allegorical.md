@@ -14,6 +14,86 @@ coda it stays with its host (see the boundary notes, and `aetiological.md`).
 | 70 | *De animae procreatione in Timaeo* | XIII · 44934 | An authoritative *text* treated as encoding: the soul-mixture, the harmonic ratios, and the temporal creation in the *Timaeus*, decoded into a psychology and a cosmology. Rival interpreters (Xenocrates, Crantor, Posidonius) are refuted en route, but the product is a recovered doctrine, not an exposed incoherence. Detail-accountability at its most literal — the numbers are made to pay their way individually. |
 | 71 | *Epitome De animae procreatione* | XIII · 123000 | Plutarch's own compressed restatement of 70, running the same decoding in miniature. Kept in the pillars rather than in `episodic.md` because it *performs* the operation rather than reporting it — see the genre note below. |
 
+## The two constraints, enforced by name
+
+The §4 constraints are not reconstructions; *De Iside* states both and rejects a named rival key
+under each. This is the cluster's most valuable content, because it is where the operation refuses
+to be cheap.
+
+**Against the euhemerist key** — reading the gods as ancient kings and generals — the objection is
+not that it is false but that it destroys the object. He hesitates before even reciting it, "lest
+this be the moving of things immovable": to transplant such names from the heavens to the earth is
+to eliminate and dissipate the reverence implanted in nearly all mankind at birth, opening wide the
+great doors to the godless throng. Euhemerus is then named and his Panchaean inscriptions dismissed
+as a mythology of his own manufacture, met with by no foreigner and no Greek save himself. Note the
+shape of the refutation: it is a **piety-constraint** argument, not an evidential one, and the
+evidential jab comes second.
+
+**Against the physical key** — reading the gods as the elements or the seasons — the warning is put
+as the graver of the two:
+
+> lest they unwittingly erase and dissipate things divine into winds and streams and sowings and
+> ploughings
+
+and it is closed with the argument from parts to agent: those who make Dionysus the wine and
+Hephaestus the flame differ in nothing from men who take sails and ropes and anchor for the pilot,
+or warp and woof for the weaver. **A key that turns the god into his own instrument has not opened
+the myth.** This is the sentence to hold when the decoding starts going well and cheaply.
+
+The doctrinal constraint is met in the same essay by the recovered doctrine itself — two opposed
+principles with a mediating third — which is a position an Academic could hold and defend without a
+single Egyptian rite behind it. That is the test: **strip the myth away and see whether anything is
+left standing.**
+
+## Detail-accountability at close grain
+
+The reading is worth no more than its worst-explained particular, and *De Iside* is where the rule is
+visible at the smallest scale. The priests of Heliopolis bring no wine into the shrine; the others
+use it sparingly, and their kings drank a prescribed quantity. The Apis is watered from his own well
+and kept from the Nile — **and the obvious explanation is refused**: not that the river is unclean
+(nothing is held in such honour as the Nile) but that its water fattens, and the body should not
+oppress the divine element it encases. Oxyrhynchus abstains only from hook-caught fish, because of
+the fish they revere. Salt is not set on the table, being the spume of Typhon, and the priests do not
+speak to pilots.
+
+Each of these is a *particular* prohibition, and each is assigned a role. The decoding earns its
+authority by paying for the odd clause, exactly as the cause-hunt does — the difference is that here
+the payment buys a doctrine rather than a ranking.
+
+## 27 *De E apud Delphos* — the canvass that is not aporia
+
+Five speakers, five decodings of one letter: numerological (E as the number five), logical (E as the
+hypothetical particle *if*, the instrument of dialectic), grammatical, and so on. Then Ammonius —
+Plutarch's own teacher — is given the last word and the weight, and the reading is metaphysical: the
+E is *EI*, "**Thou Art**", the worshipper's address to the one god who alone *is*.
+
+The argument for it is worth loading whole, because it is the corpus's clearest instance of a
+doctrine that stands without its myth. Time is shown to dissolve under inspection — *afterwards*,
+*before*, *shall be*, *has been* are each "an avowal of not being"; *now* is squeezed out into future
+or past like a point that must pass to right or left; nothing measured by time abides. Against that,
+the god *is*, with reference to no time but to an age in which "by one long 'now' has made the
+'always' perfect". So the fitting salutation is not a request but a predication. And then the names
+are made to pay: *Apollo* denies plurality, *Phoebus* marks the pure.
+
+Two things to take from it. First, the last speaker wins here, which is what separates this from the
+open canvasses in `dialectical.md` — and the last speaker is his teacher, not himself. Second, the
+persona **gives away the best answer**: the strongest position in his own dialogue is spoken by
+someone else, and he is content to be one voice among several who does not win.
+
+## Register — the self-effacing extreme
+
+This is the least personal prose in the corpus and the numbers are unambiguous. Questions **0.48/1k
+and 1.6% of all sentences** against 4.49/1k and 14.8% in cause-hunting — a ten-to-one separation, and
+it survives the within-volume control (Vol XIII: decoding 1.2% and 2.9% against refutation 13.3% and
+17.6%, one translator throughout). Hedges fall to **3.75/1k**, the lowest of any cluster. First
+person **16.5%**, second person **2.8%** — both the lowest measured. Third person **80.7%**, the
+highest outside the residue.
+
+The rule that follows: **when the doctrine is speaking, get out of its way.** No canvassing tone, no
+addressee being led, no visible weighing. The one exception is the dedication — Clea is named in the
+first sentence of *De Iside* and again at its turning points, which is the address constraint holding
+even here.
+
 ## Boundary notes
 
 - **The coda rule (§Combination rule 2) does most of the work here.** *De sera numinis vindicta*

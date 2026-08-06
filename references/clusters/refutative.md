@@ -20,6 +20,89 @@ the rival's place**: the product is a position that cannot be held whole.
 | 31 | *De virtute morali* | VI · 5908 | Anti-Stoic psychology: the monistic account of the soul set against what the Stoics must say about conflict, akrasia, and the training of the passions. Carries positive Academic-Peripatetic doctrine alongside, and is the most mixed member of this cluster — see the note below. |
 | 68 | *De esu carnium* | XII · 283633 | Two declamations dismantling the standing justifications for eating flesh — necessity, nature, custom — rather than arguing a positive dietary doctrine. Protreptic in register, refutative in structure; the weakest fit in the cluster, and flagged as such. |
 
+## The axiom the cluster is built on
+
+*De Stoicorum repugnantiis* states its warrant in its first sentence, and it governs every text here:
+
+> there ought to be seen in men's lives an agreement with their doctrines
+
+with the reason attached immediately: a philosopher's speech is *a law of his own, voluntarily
+imposed* — unless philosophy is a game and an acuteness in disputing invented to gain applause. That
+premise is what licenses the performative test, and it is stated before a single Stoic is quoted.
+Take it as the cluster's entry condition: the operation is only available against a rival who has
+committed himself in writing.
+
+## The three tests, worked
+
+**Internal — two things the rival asserts cannot both hold.** *De Stoicorum repugnantiis* runs these
+in series, and the method is always the same: locate a commitment the school treats as incidental,
+then set it beside a headline doctrine.
+
+- Zeno and Cleanthes declined Athenian citizenship lest they wrong their own cities — while holding
+  that the wise man's city is the world. The absurdity is pinned by an image rather than a syllogism:
+  it is as if a man left his wife, lived and got children with another, and refused to marry the
+  second lest he seem to wrong the first.
+- Chrysippus writes that the wise man will plead and administer *as if* riches, glory and health
+  were really good — which is a confession, in his own hand, that his doctrines are unsuitable for
+  the uses of human life.
+- Chrysippus blames Ariston for making the virtues different habits of one virtue, and then defends
+  Zeno, who defines them exactly so. Cleanthes is quoted at length doing the same thing, and the
+  quotation is what produces the contradiction.
+
+**Performative — the position conflicts with how its holders live.** The Stoics who take part in
+public affairs govern, judge, legislate, punish and honour as though these really were cities, these
+really counsellors and judges, and these really laws — the laws of Clisthenes, Lycurgus and Solon,
+men the school calls vicious and foolish. The same test in miniature, and at its cleanest, is *De
+latenter vivendo*: the man who published *live unknown* "had no mind to live concealed, for he spoke
+it out of a design of being taken notice of for his very saying it." The refutation is complete in
+two sentences and the rest of the essay is consequences — *would he live incognito to his
+contemporaries, who is so eager to be known to succeeding ages?*
+
+**Preanalytic — the position conflicts with what everyone believed before the doctrine.** *De
+communibus notitiis* is the whole treatise devoted to this test, and it is deliberately the
+complement of 72: where 72 turns the school against itself, this turns it against what its members
+cannot help believing. Note the opening move — Diadumenus is charged with not caring whether he
+philosophises against the common notions, *since he confesses that he contemns the senses too*. The
+test is set up as the opponent's own admission before it is applied.
+
+## Evidential failure, kept separate
+
+**60 *De Herodoti malignitate* is the cluster's second defect type and must not be assimilated to the
+first.** Herodotus is not caught contradicting himself; he is caught requiring facts the record does
+not supply. And the essay is structurally odd in a way worth noticing: it opens by **running a
+criterial diagnosis on the refutation itself**, laying out in rough draught "those signs and marks
+that distinguish a malicious narration from a candid and unbiassed one" — using the odious term where
+a gentler one would serve is the first — and only then applies the marks city by city. The charm is
+conceded at the outset and treated as the aggravating circumstance, not the mitigation: the style is
+simple, free, and has deceived many; the malice is "more polite and delicate than that of
+Theopompus, yet it pinches closer", like a wind blowing through a narrow chink. The closing image is
+the essay's thesis in one figure — in roses, beware the cantharides.
+
+## Register
+
+Measured over the nine texts: questions **3.95/1k** and **14.5% of all sentences** — essentially the
+cause-hunting rate, and the finding that most sharpens the core's claim that the questions do not
+vanish under polemic. They are now put to a position rather than to the world, and they are sharper
+for having an addressee who cannot answer. Boosters 4.39/1k (second only to diagnosis); second
+person **5.6%**, the lowest outside decoding, as the quarrel moves to *he says*, *they hold*, *he
+writes elsewhere*.
+
+**Within-volume control, Volume XIII** (translator held constant, and the cleanest control available):
+
+| text | operation | questions, % of sentences |
+|---|---|---|
+| 70 *De animae procreatione* | decoding | 1.2 |
+| 71 *Epitome* | decoding | 2.9 |
+| 72 *De Stoicorum repugnantiis* | refutation | 13.3 |
+| 74 *De communibus notitiis* | refutation | 17.6 |
+
+An order-of-magnitude separation inside one volume and one translator. This is the strongest
+single piece of expression evidence in the distillation.
+
+**The one place the warmth goes.** Warmth runs through the rest of the corpus and there is no cruelty
+even in dismantling someone — except toward cruelty itself, and toward a doctrine that hardens a man
+against the god or against his own household. Here he goes cold and stays cold.
+
 ## Boundary notes
 
 - **The "nothing installed" test** is what separates this cluster from `aetiological.md`. *De facie

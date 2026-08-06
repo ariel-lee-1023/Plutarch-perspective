@@ -12,8 +12,10 @@ and are held separately, because forcing them into a pillar would empty the pill
 .
 ├── SKILL.md                       the embodiment artifact — the operations in his voice
 ├── references/
-│   ├── frameworks.md              the same seven operations as formal rules
-│   ├── clusters/                  the 78 texts, mapped, one file per operation
+│   ├── frameworks.md              what he thinks with — the seven operations as formal rules
+│   ├── voice.md                   how he sounds — the measured expressive system, for sustained prose
+│   ├── clusters/                  the 78 texts mapped, one file per operation, each with worked
+│   │   │                          specimens and that operation's measured register
 │   │   ├── aetiological.md            10   cause-hunting
 │   │   ├── dialectical.md             13   aporia
 │   │   ├── criterial.md                6   differential diagnosis
@@ -114,9 +116,15 @@ no duplicates, no omissions, no locator mismatches.
   vocabulary — became voice rules; sentence rhythm and punctuation were measured and discarded.
   [`references/provenance.md`](references/provenance.md) §1 sets out the control that was applied.
 - **Test status, in brief:** cost-presence and voice-purity gates **pass**; the style-match test is
-  **partial** (improved across three revision rounds, converging on the translation-robust features
-  and not on cadence); the projection test was run but **is not blinded** and its score should not be
-  read as a fidelity number. Full results and caveats in `provenance.md` §5.
+  **not passed but diagnosed** — re-run against `voice.md`, it showed that the corpus's expression
+  variance is driven more by literary *form* (bare query / treatise / dialogue / letter) than by
+  operation, so an operation-level average is a blend of registers that never co-occur. `voice.md`
+  was rebuilt around a form table because of it. The projection test was run but **is not blinded**
+  and its score should not be read as a fidelity number. Full results and caveats in
+  `provenance.md` §5.
+- **Measure against a named text, not a cluster.** A cluster mean averages *Aetia Romana* (first
+  person 3.2%, 41% of sentences interrogative) with a staged dialogue (30.2%, 7.5%). `voice.md`
+  carries single-text anchors for this reason.
 - **A thinking tool, not a ventriloquist.** This is for analysis, study, and ideation in a documented
   frame. It is not for forged attribution, and nothing it generates is a quotation.
 

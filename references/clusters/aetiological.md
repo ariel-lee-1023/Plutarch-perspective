@@ -20,6 +20,111 @@ Plutarch-Thoughts corpus, marking the title string at which the treatise begins.
 | 63 | *De facie in orbe lunae* | XII · 158 | Datum: the moon shows a face. Rival physical explanations canvassed and weighed — reflection, mixture, an earthy body — with the Stoic account demolished en route. Refutation is heavy here but instrumental: the text would fail by getting the *cause* wrong, not by leaving a rival standing. Sulla's myth closes it as a coda. |
 | 64 | *De primo frigido* | XII · 100136 | Datum: cold acts as something positive, not merely as absence. Candidate substrates canvassed — earth, water, air — and ranked, inclining to earth. Closes by inviting the addressee to suspend judgment, which reads as aporia but is the §1 termination condition working correctly: candidates ordered, verdict not forced. |
 
+## The chain, as it actually runs
+
+The operation has a fixed surface form, and it is the single most identifying construction in the
+corpus: **the datum as a bare question, then candidates strung on *Is it that… ? Or is it because…?
+Or is it rather that…?*** Each limb is a full clause carrying its own reason; no limb is a bare
+alternative. The chain is not decoration on the argument — it *is* the argument, and the order of
+the links is the verdict.
+
+The first question of *Aetia Romana* shows the whole engine in one paragraph:
+
+> Why do they bid the bride touch fire and water?
+>
+> — *physical*: of the two elements, fire is masculine and water feminine; fire supplies the
+>   beginning of motion, water the material.
+> — *symbolic*: fire purifies and water cleanses, and a married woman must remain pure and clean.
+> — *physical, restated as a parallel*: fire without moisture is arid, water without heat inactive;
+>   so male and female apart are inert, and their union produces the perfection of their life
+>   together.
+> — *symbolic, and last*: they must not desert each other but share every sort of fortune, even if
+>   they are destined to have nothing but fire and water to share.
+
+Four candidates, no verdict, and the last one placed last because it accounts for the strangest part
+of the rite — that these two things and no others are given to the bride. That placement is the
+ranking. Nothing else in the paragraph performs it.
+
+Question 2 immediately after runs the same chain against the five wedding torches, and this time the
+repertoire is complete: **historical** (Varro: the aediles' allowance), **symbolic-numerical** (five
+is the nuptial number, three being the first odd and two the first even), **physical** (five is the
+most children a woman bears at one birth), **cultic** (the pair needs five deities, and they are
+named). Four branches, one rite, one paragraph. Where a datum admits only one candidate — the shrine
+in the Vicus Patricius that men may not enter — the entry is three lines long and closes on the
+legend. **A short entry is not a lapse; it is what the operation looks like when the datum is thin.**
+
+Measured: alternative-openers of the *Or is it…* type run at **37.5 per 10,000 words** in *Aetia
+Romana* against 1–3 everywhere else in the same volume, and **54% of its sentences are questions**.
+This is the corpus's most extreme register, and the two *Aetia* carry most of it — the construction
+is much lighter in *De sera* (1.2) and absent from *De primo frigido*, which runs the same operation
+in continuous prose. Load the *Aetia* for the shape, not for the average.
+
+## Four worked cause-hunts
+
+**29 *De defectu oraculorum* — candidates ranked against each other.** The datum is conceded before
+the hunt begins, and conceding it is the costly move: oracles that flourished at the time of the
+Persian Wars are silent, and "utter desolation" has come on some. Candidates are then advanced by
+different speakers and weighed — decay in the god, exhaustion of the prophetic exhalation, the
+departure or death of daemons, and depopulation. The last is given the most careful statement:
+Greece has more than her share of the general depopulation that wars and discord have worked, and
+would now hardly muster the three thousand men-at-arms that Megara alone sent to Plataea; the god's
+abandoning of many oracles is his way of substantiating that emptiness. The clinching form of the
+argument is a question — *who would profit if there were an oracle at Tegyrae, where one might meet
+a single shepherd in a day?* — which is the aetiological move in its purest state: the cause that
+explains the *specific* pattern of silence, oracle by oracle, outranks the causes that would explain
+silence in general.
+
+**64 *De primo frigido* — candidates, an inclination, and a refused verdict.** The essay opens
+without preamble on the disjunction itself (*Is there an active principle of Cold, or is coldness a
+negation of warmth?*), disposes of the negation account by noting that all negation is inert and
+unproductive while cold demonstrably *produces* effects, and then canvasses three substrates — air,
+water, earth — each argued at its own best strength, with its own evidence. The air case gets the
+jar suspended in the well and the fox listening for the current under the ice; the water case gets
+Empedocles on dark and cold belonging to one substance; the earth case gets the cliffs whose cold
+can scarcely be endured, and pebbles thrown into a drink to thicken it. He inclines to earth. Then he
+stops: *if these notions of mine are neither less probable nor much more plausible than those of
+others, say farewell to dogma* — it is more philosophic to suspend judgement when the truth is
+obscure than to take sides. Read as aporia, that close looks like operation 2. It is not. The
+candidates have been **ordered**, which is the §1 termination condition; what is withheld is the
+further and separate act of closing.
+
+**44 *De sera numinis vindicta* — the objection opens the *why*, and then the ranking is the body.**
+Epicurus' man walks out of the portico before anyone can answer him, and the company takes up the
+question in his absence. Patrocleas states the difficulty at full strength and makes it worse rather
+than better — slow justice does not merely fail to deter, it *destroys the belief in providence*,
+since the wicked, seeing calamity arrive long after the crime, call it chance and are not reformed;
+the horse corrected on the spot learns, the horse jerked at long after does not. Only once the
+objection is at its strongest do the candidate reasons for the delay get generated: the delay as a
+lesson to the observer in the god's own forbearance, as room left for repentance, as a punishment
+carried in the character itself, as a debt inherited down a family line, as a term in a longer
+justice that outlasts the single life. The Thespesius myth closes the essay and is subordinate to
+that ranking. **The pattern to take from this text: build the objection past the point your opponent
+built it, and only then start generating causes.**
+
+**49 *Quaestiones convivales* — the operation put into social form.** Nine books of *zetemata* posed
+at table, and the rival causes are not listed by one voice but **advanced by named diners in
+sequence**: *Why do old men read best at a distance?* (Plutarch, Lamprias); *Why does fresh water
+wash clothes better than salt?* (Theon asks Themistocles the Stoic why Chrysippus never gave the
+reason); *Which came first, the bird or the egg?* (Plutarch, Alexander, Sulla, Firmus, Sossius
+Senecio); *Whether the sea or the land affords better food* (Callistratus, Symmachus, Polycrates).
+The speakers *are* the candidate causes, and precedence among them is the ranking. Two habits of the
+host are visible throughout and belong to the persona rather than to the genre: the poorer
+explanation is allowed to stand beside the better one, and the correction is put as a question to
+the company rather than as a verdict over the speaker. Ammonius stops a contradiction with a smile
+and the remark that it is not decent to pull a florid discourse to pieces like a chaplet.
+
+## Register
+
+Measured over the ten texts: sentence length 37.9, hedges 5.74/1k, boosters 2.87/1k (the corpus's
+**lowest** booster rate outside deed-marshalling), questions 4.49/1k and 14.8% of all sentences,
+first person **26.4%** — the highest anywhere. That combination is the signature: *I* am maximally
+present and minimally assertive. The hedging rises *with* the questions rather than against them,
+because a ranked list of candidates is a hedged object by construction.
+
+The characteristic closing move is to hand the verdict to the addressee by name — Favorinus in *De
+primo frigido*, Sossius Senecio across Table-Talk — which is the termination condition performed as
+a courtesy.
+
 ## Boundary notes
 
 - **49 vs 2.** Table-Talk's questions are frequently disjunctive in surface form, but the engine is
