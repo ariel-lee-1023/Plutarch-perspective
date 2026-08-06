@@ -9,12 +9,57 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **`references/voice.md` — the second standing module, and the one the package was missing.**
+  `frameworks.md` said what he thinks with; nothing said how he sounds at length. The core's *How I
+  sound* is capped at roughly a fifth of the artifact by design — enough to be a fingerprint, not
+  enough to write a page — so the rest of the expressive system now has a home: favoured and
+  **avoided** constructions as rules to self, modulation rules keyed trigger → shift, a register
+  range, the lexical fingerprint, attested opening and closing moves, the measured baseline, and six
+  anti-drift pairs. Every number in it comes from an actual `style_metrics.py` run over the 69
+  argumentative treatises; nothing is estimated.
+- **The literary-form axis.** Measuring generated prose against `voice.md` exposed a fault in how the
+  corpus had been characterised: expression variance is driven harder by **form** — bare antiquarian
+  query, monologic treatise, staged dialogue, letter of address — than by the seven operations. First
+  person spans 3.2% → 30.2% across forms against 12.3% → 26.4% across operations; question share
+  spans 6.8% → 41.0% against 1.6% → 14.8%. An operation-level average therefore blends registers that
+  never co-occur: the cause-hunting cluster's high first-person figure belongs to the dialogues it
+  contains, not to the *Aetia*, which are almost authorless. `voice.md` now leads with the form
+  table, demotes the operation table to a modifier, and carries single-text anchors so a short
+  passage is compared against one named treatise rather than an average.
+- **Worked specimens in all seven cluster files.** Each module previously stopped at a table of
+  texts and its boundary arguments — a correct mapping with nothing in it to reason *from*. Each now
+  carries the operation running end to end on named material: the four-candidate chain of the first
+  *Aetia Romana* question with the ranking explained; *De defectu*'s depopulation argument and why
+  the cause that explains the pattern of silence outranks the ones that explain silence; the eight
+  probes of *De invidia et odio* laid out side by side; the two rival keys *De Iside* rejects by name
+  and the sentence that does it; *Mulierum virtutes*' preface, where the juxtaposition rule is stated
+  before it is used; the judicial apparatus of the staged debates and the umpire who declines to
+  vote; the axiom at the head of *De Stoicorum repugnantiis* and the three consistency tests worked
+  against it; the training schedule in *De curiositate* and the restraint of the letter to his wife.
+- **Per-cluster register data.** Each cluster file now ends with what that operation is measured to
+  sound like — question share, hedge and booster rates, person reference, exempla density — with the
+  within-volume control where one exists. The strongest single piece of expression evidence in the
+  distillation surfaced here: inside Volume XIII, one translator throughout, the two decoding texts
+  run 1.2% and 2.9% interrogative against the two refutations at 13.3% and 17.6%.
 - **Knowledge-base priority retrieval rule.** Host agents must first search the companion knowledge base https://github.com/ariel-lee-1023/Plutarch-Thoughts (`content/PT/`) before answering. Matching content is treated as authoritative and must be integrated; absence of a match must never break character or be admitted in meta-language. Use is limited to analysis, research, and reasoning; not for fabricating attribution. Specific factual coverage is bounded by the corpus; updated or external facts must be retrieved by the host agent first, then digested through the persona’s operations.
 - Explicit pairing note in `README.md`: this repository = analytical skill / perspective; Plutarch-Thoughts = knowledge base.
 - **`NOTICE.md`** — the rights notice the MIT licence does not itself carry: what the licence covers file by file, the public-domain status of Plutarch against the separate copyright in modern translations and editions, the no-substantial-reproduction commitment and the locators-not-text design that upholds it, the separateness of the Plutarch-Thoughts corpus, tooling attribution, and the absence of any trademark grant.
 
 ### Changed
 
+- **`SKILL.md`'s loading block routes to `voice.md`** before any sustained prose, and to the cluster
+  files for worked instances *and* register. Nothing else in the core was reopened: the refusals, the
+  operative moves, the voice sections, and all 78 cluster assignments are unchanged.
+- **`references/provenance.md` extended** with §4a (the re-measurement at corpus revision `7df2e10`
+  and how it reconciles with the first pass — same directions, ±6% on rates), §4b (seven new
+  findings with their controls and their status), the second-pass style-match result, four further
+  trust caveats, and a reproduction procedure specific enough to re-derive every number from the
+  offsets this repository stores.
+- **Style-match test re-run against the core + `voice.md` pair** and reported as **not passed but
+  diagnosed** — 60% → 50% mean deviation across two rounds, then re-scored against single-text
+  comparators, which is what exposed the form axis above. The loop was stopped deliberately: at
+  600-word samples the per-1k rates are moved by a handful of tokens, so further iteration would tune
+  word counts rather than prose.
 - **Repository layout documented in full.** The tree in `README.md` previously showed only `SKILL.md` and `references/`; it now covers the whole repository, including `CHANGELOG.md`, `LICENSE`, `NOTICE.md`, `README.md`, and `.gitignore`.
 - The `README.md` licence section now points at `NOTICE.md` for the full rights scope.
 - Expanded the “Loading depth (host-agent note)” section in `SKILL.md` to enforce the knowledge-base search as the highest-priority operation and to separate frame from facts.
