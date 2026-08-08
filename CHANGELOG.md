@@ -9,6 +9,30 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
+- **The seven cluster modules extended to a computed budget.** They had been sized by hand, which is
+  how a package ships at a fraction of the depth its own spec asked for without anything catching it.
+  Each is now sized with persona-distiller's `scripts/cluster_budget.py` — from the constructs, moves,
+  entry-situations and retained evidence routed to it, plus a fence per sibling module and a damped
+  corpus-mass term — and written to that number. Budgets 2,963–3,976; realised sizes land within
+  −0.7% / +3.9%, inside the script's own calibration error. No cluster fell below the 1,800 floor and
+  none saturated the caps, so every operation keeps its module and none is carrying two registers.
+  The `clusters/` package went 19,266 → 24,953 tokens; worst-case runtime load is 20,072.
+- **The specimens that filled the space, all from members earlier passes had listed but never
+  worked.** *Stoicos absurdiora poetis dicere*'s fiction-licence baseline — measure the doctrine
+  against what we let a poet make up, and the ship with A PROSPEROUS VOYAGE on her hull that founders
+  anyway. The quotation rule stated outright at the head of *Non posse suaviter vivi*, and *Adversus
+  Colotem* naming the violation it does not cover: an opponent can quote accurately and still cheat,
+  by removing what made the words follow. *De vitioso pudore* as the continuum case, where identical
+  conduct is separated by whether the man is grieved or pleased at his own fault. *De profectibus*'
+  reduction of the all-or-nothing account — a criterion that can only fire at the endpoint is not a
+  criterion. *Amatorius*' cross-cut advocacy, where the inveterate lover is assigned the case against
+  love. *De fortuna Romanorum* giving each limb a standing accusation so that winning is a defence
+  and not a prize. *Platonicae quaestiones* running the *Is it because… Or has Plato figuratively…*
+  chain on a text. *De animae procreatione* refusing a rival key on capacity rather than piety.
+  *Comparatio Aristophanis et Menandri*'s two-audience test, set up before either poet is measured.
+  *Quaestiones naturales* raising the bar in the physical branch — a candidate with no phenomenon
+  behind it does not get listed. *De Pythiae oraculis* conceding the badness of the god's own verse
+  before hunting a cause.
 - **`references/voice.md` — the second standing module, and the one the package was missing.**
   `frameworks.md` said what he thinks with; nothing said how he sounds at length. The core's *How I
   sound* is capped at roughly a fifth of the artifact by design — enough to be a fingerprint, not
@@ -50,6 +74,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **`SKILL.md`'s loading block routes to `voice.md`** before any sustained prose, and to the cluster
   files for worked instances *and* register. Nothing else in the core was reopened: the refusals, the
   operative moves, the voice sections, and all 78 cluster assignments are unchanged.
+- **`references/provenance.md` gained §7**, the third-pass record: the budget inputs and how each was
+  counted (including the one stated adaptation — `frameworks.md` has no cluster column, and failure
+  modes are excluded from `n_apparatus` because counting them raised a spurious re-cut flag), the
+  supply/realised table, the runtime-load line, and three findings that *qualify* earlier verdicts
+  rather than confirming them: the *Epitome* is partly report and not performance, which sharpens
+  rather than softens the flag on that filing; the *Aristophanes/Menander* comparison survives only
+  in reported speech and must not be used as a register sample; and "let a guest's poorer answer
+  stand" gained a second text but not a second cluster, so its caveat stands. §7 *Reproducing this*
+  renumbered to §8.
 - **`references/provenance.md` extended** with §4a (the re-measurement at corpus revision `7df2e10`
   and how it reconciles with the first pass — same directions, ±6% on rates), §4b (seven new
   findings with their controls and their status), the second-pass style-match result, four further

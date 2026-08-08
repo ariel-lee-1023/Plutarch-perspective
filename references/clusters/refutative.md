@@ -65,6 +65,73 @@ cannot help believing. Note the opening move — Diadumenus is charged with not 
 philosophises against the common notions, *since he confesses that he contemns the senses too*. The
 test is set up as the opponent's own admission before it is applied.
 
+**The preanalytic test has a second baseline, and 73 is where it is used.** Instead of measuring the
+doctrine against what men believe, measure it against **what we let a poet make up** — a licence
+everyone concedes is generous, so exceeding it is damning without any premise having to be argued
+for. Pindar's Caeneus is impenetrable by steel; the Stoic wise man is not invulnerable and yet
+remains "fearless, regretless, invincible" in the midst of wounds and torments and the subversion of
+his native city's walls. Caeneus is not wounded when struck; the wise man "is not detained when shut
+up in a prison, suffers no compulsion by being thrown down a precipice, is not tortured when on the
+rack" — and, sold by his enemies, is still not a prisoner. Euripides' Iolaus was made young by a
+prayer; the Stoics' villain becomes "of a wrinkled, pale fellow… gallant, godlike, and beauteous"
+without shedding a wrinkle, changed at noon from the worst man in the world into the best. The
+comparison is closed with the poets awarded the decorum: fable is careful enough never to leave a
+Hercules without necessaries, whereas the Stoic Amalthaea produces a rich man who "begs his victuals
+of other men… he is a king, but resolves syllogisms for hire". The figure that carries the whole
+essay is the ship with A PROSPEROUS VOYAGE painted on her hull, which endures the storm and is
+"miserably shattered and overturned" all the same. **A doctrine that names a condition it cannot
+produce has been refuted by its own inscription.**
+
+## The rule of engagement, stated rather than merely obeyed
+
+The core's refusal to paraphrase is not only enacted in 72; it is issued as a rule of conduct at the
+head of 75, addressed to the whole practice of contradiction — that those who will needs contradict
+other men
+
+> ought not to run cursorily over the discourses and writings of those they would disprove, nor by
+> tearing out one word here and another there, or by falling foul upon particular passages without
+> the books
+
+Three obligations in one sentence: read the whole thing, do not quote a phrase out of its argument,
+and do not argue from memory. 76 then shows the violation and names it — Colotes built his book "by
+having extracted from them certain pieces and fragments of discourses, destitute of any arguments
+whatever to render them credible and intelligible", which makes it "like a shop or cabinet of
+monsters and prodigies". **Note what this adds to the quotation rule: an opponent can quote
+accurately and still cheat, by removing what made the quoted words follow.** Fidelity to the wording
+is the minimum, not the whole duty.
+
+Two further constraints on the refuter belong here and are attested in dialogue, not asserted:
+
+- **Reviling disqualifies the reviler.** The Epicureans are shown raking together "the lewdest terms
+  of ignominy the tongue of man ever used" against Aristotle, Socrates, Pythagoras and Theophrastus,
+  and the verdict is not that the charges are false but that "their very calumnies and reviling
+  language would bespeak them at the greatest distance from philosophy imaginable" — since emulation
+  cannot enter that company, nor "such fretfulness as wants resolution to conceal its own
+  resentments". The complaint at the top of 75 runs the same way in the other direction: Zeuxippus
+  worries that *his own side* handled Epicurus more roughly than he deserved.
+- **The angry man should not be the one who answers.** In 76 Aristodemus, having sat through the
+  reading in uncharacteristic silence, hands the office over — as Plato would not beat his own boy
+  but asked Speusippus to do it, "saying that he himself was angry". The refutation is delegated
+  precisely because the man who wants to give it is in a fit of choler. It is a small staging, and it
+  is the cluster's only interactional move: **the office is separated from the grievance.**
+
+## Turning the charge back — 76 *Adversus Colotem*
+
+The structure worth having whole, because it is the most economical thing the cluster does. Colotes'
+book argues that on the other philosophers' opinions one cannot so much as live. The reply does not
+defend those opinions first. It observes that Colotes "seems to me, like the Lydian, to open not only
+one gate against himself", and opens the gate: he begins with **Democritus** — and Epicurus called
+himself a Democritean for years, Leonteus records that Epicurus honoured him as the first to reach
+the truth, and Metrodorus says flatly that had Democritus not gone before, "Epicurus had never
+attained to wisdom". So if living by Democritus' opinions is not living, Epicurus followed a man who
+taught him not to live. **The charge was not answered; it was made to land at home.**
+
+75 completes the manoeuvre by adopting the opponent's own success criterion instead of disputing it.
+Colotes measured philosophies by whether one can live on them; very well — *Let's fix another goal,
+and at that run* — and the essay proves it is impossible to live **pleasurably** by Epicurean tenets,
+which is the one standard Epicurus cannot call irrelevant. Refutation at its cheapest is done in the
+opponent's own currency.
+
 ## Evidential failure, kept separate
 
 **60 *De Herodoti malignitate* is the cluster's second defect type and must not be assimilated to the
