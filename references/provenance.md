@@ -342,7 +342,86 @@ cluster *assignments*.** No treatise moved between clusters, no cluster was adde
 78-text mapping is byte-identical in its verdicts. The cost gate and the voice-purity gate were not
 re-run because the material they govern was not reopened.
 
-## 7. Reproducing this
+## 7. Third pass — the cluster modules sized to a computed budget
+
+The second pass turned the seven `clusters/*.md` files from classification tables into worked
+modules, but sized them by hand. This pass sized them with `scripts/cluster_budget.py` from
+persona-distiller and extended each to the number, distilling the additional material from the same
+corpus at the same revision (`7df2e10`). The 78 treatise offsets were re-parsed out of the cluster
+tables and re-sliced by the §7 procedure below; all 78 slices open on their title strings, so the
+segmentation is byte-identical to both earlier passes.
+
+### Inputs to the formula, and how they were counted
+
+`words_firsthand` = 779,742 (all 78 treatises); `n_siblings` = 6 throughout, since every cluster gets
+a module. The two class counts follow `scoring.md`'s counting table, with one stated adaptation:
+`frameworks.md` has no cluster column, because each of its seven sections *is* a cluster, so
+`n_apparatus` was read as the named machinery of that section — object type, the procedure's named
+constraints, the termination condition, plus any named construct whose home is the cluster's own
+module. **Failure modes were deliberately excluded from the count**; they are the operation's failure
+conditions rather than constructs, and including them pushed three clusters to the `n_apparatus` cap
+and raised a spurious RECUT flag.
+
+| cluster | app | mov | apl | frg | words | supply = budget | realised | Δ |
+|---|---|---|---|---|---|---|---|---|
+| aetiological | 8 | 9 | 7 | 24 | 201,959 | 3,819 | 3,940 | +3.2% |
+| practical-syllogism | 8 | 10 | 8 | 24 | 168,397 | 3,976 | 4,022 | +1.2% |
+| refutative | 9 | 9 | 7 | 20 | 96,796 | 3,726 | 3,700 | −0.7% |
+| dialectical | 8 | 9 | 6 | 20 | 84,533 | 3,542 | 3,681 | +3.9% |
+| criterial | 10 | 7 | 6 | 16 | 43,654 | 3,385 | 3,488 | +3.0% |
+| allegorical | 7 | 7 | 5 | 16 | 46,140 | 3,032 | 3,073 | +1.4% |
+| exemplary | 7 | 7 | 5 | 14 | 37,323 | 2,963 | 3,049 | +2.9% |
+
+No FLOOR flag (every cluster earned its module) and no RECUT flag (`n_apparatus` and `n_moves` both
+stayed under 12 everywhere, so no cluster is carrying two registers). Realised sizes are `cl100k_base`
+counts, all within the script's own stated calibration error of 3.8% mean / 6.0% max. Starting sizes
+were 2,309–3,868 tokens; the pass added **5,687 tokens** across the seven, and the package's
+`clusters/` total went 19,266 → 24,953.
+
+**Runtime load, which is the figure that matters rather than package size** — modules load one at a
+time, two on a close secondary ranking:
+
+```
+loaded_worst_case = core (4,000) + 2 × max module (4,022) + voice.md (4,970) + frameworks.md (3,058)
+                  = 20,072 tokens
+```
+
+### What the added material is, and where it came from
+
+Each module was extended with attested specimens from its own members that earlier passes had listed
+but never worked. Nothing was imported from outside the cluster, and no cluster assignment changed.
+
+| cluster | texts newly worked |
+|---|---|
+| refutative | 73 (the fiction-licence baseline for the preanalytic test), 75 and 76 (the quotation rule stated as a rule of engagement; the reviling and delegated-anger constraints; the charge turned back on Colotes via Democritus) |
+| criterial | 41 (the continuum case), 5 (the self-directed case and the endpoint-criterion reduction), 7 (the mark drawn from scarcity) |
+| dialectical | 50 (cross-cut advocacy), 23 (symmetric accusations; the priority argument), 69 (the canvass run on a text), 45 (disambiguation as the bounding instrument) |
+| allegorical | 70 / 71 (rival keys refused on *capacity* rather than piety; the piety constraint relocated into the doctrine) |
+| exemplary | 59 (the shared rubric; decorum of assignment; the two-audience test) |
+| aetiological | 62 (each candidate must bring its own checkable phenomenon), 28 (the datum conceded at its most damaging) |
+| practical-syllogism | 6 (the address constraint fitted to one reader's shelf) |
+
+### Three findings that qualify earlier verdicts rather than confirming them
+
+1. **71 is partly report, not performance.** Its opening sections are third-person *about* the
+   treatise (*the treatise… reports*, *he asserts*, *he says that Posidonius*), which is the
+   strongest case anyone will make for demoting it to `episodic.md`. The verdict stands because the
+   body abandons that frame and decodes directly — but §6's flag on the *De animae procreatione*
+   pair is now sharper, not softer, and the qualification is recorded in the module itself.
+2. **59 is reported speech throughout**, so what survives is the skeleton of the comparison and not
+   its prose. It should not be used as a register sample for `exemplary.md`, and the module now says
+   so. This slightly weakens the cluster's already-thinnest register figures, which rest on 5 texts.
+3. **"Let a guest's poorer answer stand" gained a second text, not a second cluster.** 28's guides
+   fall silent and are covered rather than corrected, exactly as at table in 49. Both sit in
+   `aetiological`, so the ≥2-independent-clusters bar is still unmet and §6's caveat 4 stands
+   unchanged.
+
+**Not changed by this pass:** the core `SKILL.md` (untouched), `voice.md`, `frameworks.md`,
+`episodic.md`, the cluster assignments, the 78-text mapping, and every fidelity result in §5. The
+cost gate and voice-purity gate were not re-run because the material they govern was not reopened.
+The style-match caveat in §6 caveat 2 applies to the new prose exactly as it does to the old.
+
+## 8. Reproducing this
 
 Boundary detection, slicing, and metrics were run from the corpus with stdlib-only scripts
 (`style_metrics.py` from persona-distiller). Intermediate artifacts — the sliced corpus, per-file

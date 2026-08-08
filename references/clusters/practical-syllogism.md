@@ -122,6 +122,13 @@ beginner is wrong for one further on.
   passion and character into the performance yet listen to the prompter and do not exceed the liberty
   permitted by those in authority. The sanction is named too, in a countryman's fate: Pardalas and his
   followers, who forgot their proper limitations.
+- **6 *De capienda ex inimicis utilitate*** fits the precept to one reader's shelf. Cornelius Pulcher
+  is named, his condition specified — a mild administration, helpful in public and amiable in
+  private — and the maxim pitched at the fact that no government has ever been free of "envy or
+  jealous rivalry or contention", so this man *will* have enemies. Chilon's question does the rest:
+  he asked the man who boasted of having no enemy whether he had no friend either. Then the address
+  constraint at its most literal — matter already in *Advice to Statesmen* is left out, "since I
+  observe that you often have that book close at hand".
 - **12 *Coniugalia praecepta*** shows the descent as pure enumeration — roughly forty-eight discrete
   rules issued to one named pair on the occasion of their marriage, each small enough to be recalled.
 - **1 *De liberis educandis*** subdivides by *stage*: parentage, nursing, the choice of attendants,

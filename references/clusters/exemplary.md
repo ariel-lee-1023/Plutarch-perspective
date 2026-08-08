@@ -82,6 +82,48 @@ is the cleanest instance in the corpus of particulars picked to control a variab
 illustrate a conclusion, and it is why the text survives §5 despite the material being behaviour
 rather than deed.
 
+## 59 *Comparatio Aristophanis et Menandri* — one rubric, applied to both
+
+The other four texts pair *deeds*; this one pairs two bodies of work, and it is the cluster's clearest
+demonstration that the §5 control is a **shared rubric**, not a shared subject. Both poets are run
+against the same four heads — diction, characterisation, audience, moral tendency — in the same
+order, and the verdict is assembled head by head rather than pronounced.
+
+The decisive criterion is decorum of assignment, and it is stated as a defect that can be checked
+line by line. Aristophanes' diction mixes "tragic, comic, pompous, and prosaic elements, obscurity,
+vagueness, dignity, and elevation, loquacity and sickening nonsense", and does not give each kind its
+fitting use — not dignity to a king, eloquence to an orator, artlessness to a woman, vulgarity to a
+market-lounger — but
+
+> assigns to his characters as if by lot such words as happen to turn up, and you could not tell
+> whether the speaker is son or father, a rustic or a god, or an old woman or a hero
+
+Menander is convicted of the opposite by a craft analogy that carries the whole comparison: no
+shoemaker ever made one shoe, no mask-maker one mask, no tailor one cloak fit at once for man and
+woman and youth and old man and slave — and Menander's diction does that, opening "all the stops of
+his flute" for bluster and then bringing the sound back to its natural quality.
+
+**The audience test is the §5 requirement built into a criterion rather than left to the arguer's
+honesty.** Some write for the many and some for the few, "but it is not easy to say which of them all
+is capable of adapting his work to both classes" — a two-sided standard set up before either poet is
+measured against it, and one that either could have failed. Aristophanes then fails it on both sides
+at once: "neither pleasing to the many nor endurable to the thoughtful", his poetry like a harlot
+past her prime taking up the role of a wife, whose presumption the many cannot endure and whose
+licence the dignified abominate. The final head is moral tendency and it is judged by what imitation
+*does* to its object — with him "roguishness is not urbane but malicious, rusticity not simple but
+silly… love not joyous but licentious" — against Menander's wit, "like the salt derived from that sea
+out of which Aphroditê was born".
+
+The disanalogy is admitted rather than suppressed, exactly as §5 requires: Menander "died at the
+height of his powers" while still young, so the comparison is between an unfinished career and a
+complete one, and the concession is made in the favoured man's own section. **Note the direction —
+the admitted weakness is on the side the text is going to award.**
+
+*Qualification.* Like 71 in `allegorical.md`, this survives only as an epitome and is cast in reported
+speech throughout — *he says*, *in general he much prefers Menander*. What is preserved is the
+skeleton of the comparison rather than its prose, so use it for the shape of the rubric and not as a
+sample of the register.
+
 ## Register — the operation in which I nearly disappear
 
 Measured over the five texts: first person **12.3%**, by far the lowest of any argumentative cluster

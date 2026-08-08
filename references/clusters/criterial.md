@@ -74,6 +74,76 @@ closes on its own warning against over-correction — men fleeing superstition o
 which lies between, and land in a hardened atheism. **A diagnosis that leaves the pair no space
 between them has failed**, and he says so at the end of his sharpest essay.
 
+## The continuum case — 41 *De vitioso pudore*, where the pair has no line between it
+
+§3's hardest instruction is the one about pairs that sit on a continuum: give the *direction* of the
+error rather than a false threshold. 41 is the worked instance, and it starts by refusing to treat
+the vice as an alien thing at all. Some plants are wild and unproductive and harm the grain, and the
+farmer still reads them as the sign of a soil "not unfertile, but generous and rich" — so too with
+the affections, and compliancy is counted among these: **no unfavourable sign, though it leads to bad
+conduct.**
+
+The discriminating mark then falls, precisely, not on the act:
+
+> men who feel shame often show the same faults as those who feel none, with this difference,
+> however: they are grieved and distressed at their errors, unlike the shameless, who take pleasure
+> in theirs
+
+Identical conduct, opposite interiors — and the sign is what accompanies the fault, not the fault.
+The verdict is then given as a quantity and not a kind: **compliancy is excess of shame**, the
+direction-of-error rule in four words. The name is made to carry it too: *dysōpeomai* is built on
+*prosōpon*, the face, as *katēpheia* is on *katō*, looking down — modesty has yielded to the point
+where the man cannot look a petitioner in the face. That is a linguistic candidate of the sort
+`aetiological.md` runs, borrowed into a diagnosis and made to locate the mark on the body.
+
+Take the pattern: **where the pair shades into each other, put the vice on the virtue's own scale,
+name which way the error runs, and find a mark that fires while the conduct is still identical.**
+
+## The self-directed case — 5 *De profectibus*, and why an endpoint test is no test
+
+The hardest version of the operation is the one where the counterfeit and the diagnostician are the
+same man, and the first move is to destroy the rival account that would make the question
+unanswerable. If virtue arrived whole and vice departed at once, no man could detect himself in
+progress: the scholar of music would remain "under the same degree of unskilfulness as at first
+setting out" until the day he was expert, and the patient perceive no alteration until sound. The
+reduction is put as a jeer — a man is likelier to undergo Caeneus' change of sex without noticing
+than to pass from sloth to wisdom unawares. **A criterion that can only fire at the endpoint is not a
+criterion**, which is §3's *applicable in advance* condition arriving where advance means before you
+have finished becoming the thing you are testing for.
+
+The marks that survive are all pointed at what the man does when nobody is measuring:
+
+- **Appetite that outlasts the occasion.** Good discourse must not work like perfume, minded only
+  while you are smelling at it; when marriage, an estate, love or a campaign takes you off, the
+  hunger persists — and it *increases* with proficiency. A satisfaction that grows is the
+  counterfeit's mark; a dissatisfaction that grows is the genuine one.
+- **What you want out of an argument.** The proficient leaves a disputation pleased at having learned
+  or taught, not at having scored the hit — the counter-sign being the men who handle questions as
+  others handle cudgels.
+- **What you do with a good deed once done.** He does not exhibit his actions "as painters do their
+  pictures, to be gazed at and admired by the gaping multitude"; having done a kindness he does not
+  blab it; and the harder version — he has voted right against a biased majority, withstood a rich
+  and powerful man, refused a bribe — and said nothing.
+
+Every one of these is the §3 cheapness criterion in the reflexive case: an audience can be
+counterfeited to, but the man who is his own audience is caught by what he does when the audience
+leaves.
+
+## 7 *De amicorum multitudine* — the mark drawn from scarcity
+
+The pair here is real friendship against the crowd of nominal friends, and the argument is that these
+are not more and less of one thing. It opens with Socrates on Meno, who was asked what virtue is and
+answered with a virtue for the child, the old man, the woman, the official, the servant — "when asked
+for one virtue you have stirred up a whole swarm of virtues" — the man who names many knows none.
+(The same figure does the work against Chrysippus in `refutative.md`; **the move is one of the few
+that crosses between operations**: multiplication of the term is evidence against the multiplier.)
+
+The mark itself is then priced. It is impossible to acquire many slaves or many friends with little
+coin — *what then is the coin of friendship?* Goodwill and graciousness combined with virtue, than
+which nature has nothing rarer. The marks follow mechanically: affection strong in one soul,
+portioned among many, runs like a river divided among channels, "weak and thin"; the animals that
+bear one at a time love their young most; Homer's word for a beloved son is *the only one*.
+
 ## Register — the flattest prose in the corpus
 
 Measured over the six texts: boosters **5.59/1k** against a corpus mean of 3.34 — the plain unhedged

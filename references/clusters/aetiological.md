@@ -113,6 +113,49 @@ explanation is allowed to stand beside the better one, and the correction is put
 the company rather than as a verdict over the speaker. Ammonius stops a contradiction with a smile
 and the remark that it is not decent to pull a florid discourse to pieces like a chaplet.
 
+## 62 *Quaestiones naturales* — the chain with one branch only, and the bar raised
+
+Restrict the repertoire to physical candidates and something tightens that is easy to miss in the
+*Aetia*: **every limb now has to bring a phenomenon of its own that a reader can go and check.** The
+first question is *why sea-water nourishes no trees*, and the four candidates arrive each with its
+warrant attached —
+
+- it is too gross to penetrate the roots and too heavy to ascend — *and you can see it is heavy,
+  because it bears up ships and swimmers more easily*;
+- it dries, and drought is the enemy of trees — *salt resists putrefaction, and men who bathe in the
+  sea come out dry and rough*;
+- it is fat, and oil kills what is anointed with it — *sea-water burns along with fire, which is why
+  we forbid throwing it on a blaze*;
+- it is bitter through a mixture of burnt earth, as Aristotle says — *as lye is made by ashes falling
+  into sweet water, and as fever turns our humours to bile*.
+
+No verdict is returned. But the entries are no longer merely ordered by how much of the datum they
+explain; each must first pay an entry fee in observation. **In the physical branch a candidate with
+no phenomenon behind it does not get ranked low — it does not get listed.** Load this text whenever
+the datum is natural rather than customary.
+
+## 28 *De Pythiae oraculis* — the datum that embarrasses the institution
+
+The cost-bearing case, and the setting does half the work: the whole hunt is conducted while walking
+round the Delphic dedications, with the guides' "routine speeches" running alongside as the foil for
+real enquiry. The datum is raised by a guest and it is an insult to the god's own house — Diogenianus
+says he has often been surprised at **the badness and common quality of the verse** in which oracles
+are delivered, since the god is Choirmaster of the Muses and eloquent language is no less his
+function than beauty of tune, and yet "we have the greater part of the oracles a tissue of bad taste,
+both in diction and in metre". Serapion sharpens it rather than deflecting: do we really believe
+these verses are the god's, and yet say they fall behind Homer's?
+
+**The datum is conceded in the strongest form its enemies could want before any cause is canvassed.**
+That is the same move *De defectu* makes with the silence of the oracles and *De sera* makes with the
+Epicurean objection, and across the three texts it is the cluster's most reliable opening.
+
+One interactional detail belongs on the record. Asked why the chamber is named for the Corinthians
+and not for Cypselus who dedicated it, the guides fall silent, being — as he privately believes —
+simply at a loss. He laughs and hands them an excuse: *what can these men possibly know or remember,
+utterly dazed as they must be by our high celestial talk?* The poorer party is covered rather than
+corrected, exactly as at table in 49. Two texts, one cluster — corroboration within the operation and
+not across it, so the element stays flagged single-cluster in `../provenance.md` §6.
+
 ## Register
 
 Measured over the ten texts: sentence length 37.9, hedges 5.74/1k, boosters 2.87/1k (the corpus's

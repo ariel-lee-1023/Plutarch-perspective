@@ -36,6 +36,14 @@ Protogenes pleads for the other, each assigned rather than self-selected. *De fo
 dispenses with human advocates and makes Virtue and Fortune themselves the litigants, "striving for
 a decision regarding the hegemony of Rome".
 
+*Amatorius* states what the apparatus is *for*, which the others leave implicit: umpires are chosen
+"to prevent the growing of any quarrel between them, through long and passionate disputes" — a device
+against the passions of dispute, not a formality. And it is cross-cut on purpose: Protogenes, who has
+spent every serious and sportive hour of his life in love and for love, is set to inveigh against
+Ismenodora, and is mocked for it on the page — *O Hercules, what may we not expect, when Protogenes
+bids defiance to love?* **The advocate is assigned the case his own life argues against**, and the
+company is allowed to notice.
+
 Three things follow from the apparatus, and they are the operation's real content:
 
 1. **Assignment, not conviction.** An advocate argues the side the lot gave him. This is the
@@ -67,6 +75,51 @@ Notice also how the arguer polices himself. Aristotimus, having run from the dol
 Coeranus, breaks off: since he began by promising no tall tales and has now gone past belief, he lays
 the penalty on himself of concluding there. **The advocate withdraws his own overreach before the
 umpire has to.**
+
+## 23 *De fortuna Romanorum* — both limbs given a motive, and neither given the verdict
+
+Where 66 recruits a human umpire, 23 removes the advocates and makes the candidates plead for
+themselves — Virtue and Fortune "striving for a decision regarding the hegemony of Rome". The move
+that makes it work is in the next sentence: **each limb is given a standing accusation to answer, so
+that winning is a defence and not a prize.**
+
+> Virtue is accused of being a fair thing, but unprofitable; Fortune of being a thing inconstant, but
+> good. Virtue's labours, they say, are fruitless, Fortune's gifts untrustworthy.
+
+Symmetric charges, symmetric stakes. Neither side argues for honour; each argues off a reproach it
+already carries, which is why neither can be built weakly without the text visibly cheating. Fortune
+is then made as good as the case against her: she does not hover "poised on tip-toe above a globe"
+and depart, but crossed to Rome as Aphroditê crossed the Eurotas, putting aside mirrors and girdle
+and taking up spear and shield.
+
+The sharpest instrument is the **priority argument**, borrowed from Themistocles and handed to
+Fortune: the Day-After contended with the Feast-Day, which was all wearying labour while on the
+Day-After men enjoyed in quiet everything prepared — and the Feast-Day answered, *if I had not been,
+where would you be?* Fortune says exactly that to the Virtue of Romulus. **When two candidates both
+claim an outcome, ask which had to exist first** — and note that it settles nothing, which is why it
+is here and not in `exemplary.md`.
+
+## 69 *Platonicae quaestiones* — the canvass turned on a text
+
+Aporia with the world removed: the datum is a sentence Plato wrote, and the question is why he wrote
+it so. The surface is the cause-hunt's, and this is the one place the two operations share a
+construction — *Why does he call the supreme God father and maker of all things?* **Is it because**
+he is, as Homer has it, father of created gods and men but maker of soulless things? **Or has Plato
+figuratively** called the world's maker its father, as he calls Phaedrus the father of the discourse
+he began? The chain runs as it does in the *Aetia*; the assignment holds anyway, because what
+terminates these is not a ranked list of causes but a reading left standing beside its rival.
+
+Two constraints on such readings show in Question I. **The author's manner** bounds the reading: a
+proposal is rejected because Plato "would never have used the name of God in such a merry, jesting
+manner". And the puzzle is generated from the text's own friction — Socrates charged by the god to
+midwife others and not to generate — rather than imported. A canvass on a text earns its openness the
+way a canvass on the world does: by locating a difficulty the object itself creates.
+
+**45 *De fato* completes the set with the third instrument — disambiguation.** Before any rival
+articulation is broken, the term is split: "the term *fate* is used and understood in two senses: one
+fate is an activity, the other, a substance", with the *Phaedrus*, *Timaeus* and *Republic* passages
+sorted between them. Nothing is refuted; the positions stop colliding because they were never in the
+same place. That is the §2 dissolution clause in exegetical form.
 
 ## The range of openness
 

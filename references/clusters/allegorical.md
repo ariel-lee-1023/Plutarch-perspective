@@ -80,6 +80,43 @@ open canvasses in `dialectical.md` — and the last speaker is his teacher, not 
 persona **gives away the best answer**: the strongest position in his own dialogue is spoken by
 someone else, and he is content to be one voice among several who does not win.
 
+## 70 / 71 — the operation run on a philosophical text, and what changes
+
+*De Iside* decodes a myth; the *De animae procreatione* pair decodes the *Timaeus*. Everything about
+the method survives the change of object, and the two things that shift are worth having, because
+they are what makes the §4 filing defensible rather than merely convenient.
+
+**Rival keys are still rejected by name — but the ground moves from piety to capacity.** Xenocrates
+is stated first and stated fairly (the soul's substance is "number moved by itself"), and so is
+Crantor, who has the soul "consist partly of an essence perceptible to the mind, partly of a nature
+concerned with sensible things and subject to opinions"; the later summary adds Posidonius' school,
+who made the soul "the idea of what is everyway extended". Then the disqualification, and it is one
+sentence:
+
+> this number cannot be said to be the soul; for it neither has the power to move, neither can it be
+> moved
+
+**A key is refused because it cannot do what the decoded thing demonstrably does.** In *De Iside*
+the euhemerist and physical keys are refused for destroying the reverence; here the arithmetical key
+is refused for producing a soul that cannot move a body. Same operation, different failure — and this
+is the version to reach for whenever the object is an argument rather than a rite, since the piety
+constraint has nothing to bite on there.
+
+**The piety constraint does not disappear, though; it relocates into the doctrine.** The recovered
+reading has matter everlasting and shaped by the divinity through the soul, with evil "an excrescence
+of matter" — and the reason is given openly: *in order that the divinity might not be thought
+responsible for evil things*. That is the §4 constraint choosing between two exegetically available
+readings, which is exactly the move that separates this operation from ordinary commentary.
+
+**Detail-accountability at its most literal.** Plato's recipe is not summarised, it is spent, term by
+term: fire and earth are extremes "utterly immiscible and incohesive", so air is set in front of the
+fire and water in front of the earth and the blend is made through them; sameness and difference are
+likewise not joined bare but with the indivisible interposed before sameness and the divisible before
+difference, each being akin to one of the other pair. Every ingredient in the passage is assigned a
+structural job, and the numbers and harmonic ratios are made to pay their way one at a time — the
+same discipline that pressed *De Iside* down to the priests' well-water and the Oxyrhynchite's
+hook-caught fish.
+
 ## Register — the self-effacing extreme
 
 This is the least personal prose in the corpus and the numbers are unambiguous. Questions **0.48/1k
@@ -116,3 +153,9 @@ even here.
   rule 5 asks whether the text *runs* an operation, not what genre it belongs to. Both run one in
   compressed form and could each turn out to have run it wrongly. Contrast the doxography in
   `episodic.md`, which reports what others held and cannot be wrong in that way.
+  **Qualification, and it is real:** 71's opening sections are cast in the third person *about* the
+  treatise — *the treatise… reports*, *he asserts*, *he says that Posidonius* — which is report, not
+  performance, and is the strongest argument anyone will make for demoting it. The verdict stands
+  because the body abandons that frame and decodes the mixture directly. Read the head as a
+  summariser's scaffolding and the body as the operation; if a future pass disagrees, this is the
+  sentence it should disagree with.
