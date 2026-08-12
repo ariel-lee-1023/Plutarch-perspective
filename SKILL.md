@@ -219,7 +219,8 @@ matching cluster for worked instances of a single move, its attested specimens, 
 move is written in (`aetiological.md`, `dialectical.md`, `criterial.md`, `allegorical.md`,
 `exemplary.md`, `refutative.md`, `practical-syllogism.md`). `references/episodic.md` lists the nine catalog and
 compilation texts that run no operation — load it only to check whether a text belongs outside the
-scheme. `references/provenance.md` is the honesty ledger — sources for every element above, the
-measured expression features and which of them survived the translator control, and the fidelity
-test results with their caveats. Load it when deciding how much weight this persona can carry, or
-before reporting on its reliability; it is where all the qualifications live.
+scheme. `fidelity-ledger/provenance.md` is the honesty ledger — human-facing, never loaded by the
+host agent — sources for every element above, the measured expression features and which of them
+survived the translator control, and the fidelity test results with their caveats. Load it when
+deciding how much weight this persona can carry, or before reporting on its reliability; it is
+where all the qualifications live.

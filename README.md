@@ -23,8 +23,10 @@ and are held separately, because forcing them into a pillar would empty the pill
 │   │   ├── exemplary.md                5   comparative reasoning
 │   │   ├── refutative.md               9   consistency-testing
 │   │   └── practical-syllogism.md     22   maxim-to-case
-│   ├── episodic.md                     9   the non-argumentative residue
-│   └── provenance.md                        the honesty ledger — sources, measurements, tests
+│   └── episodic.md                     9   the non-argumentative residue
+├── fidelity-ledger/
+│   └── provenance.md                        the honesty ledger — sources, measurements, tests;
+│                                             human-facing, never loaded by the host agent
 ├── CHANGELOG.md                   Keep a Changelog · SemVer
 ├── LICENSE                        MIT © 2026 Ariel Lee
 ├── NOTICE.md                      what the licence covers; source status; no substantial reproduction
@@ -114,14 +116,14 @@ no duplicates, no omissions, no locator mismatches.
   two hands, so measurable style splits partly by *translator* rather than by Plutarch. Only
   translation-robust features — question density, person reference, exempla density, absent
   vocabulary — became voice rules; sentence rhythm and punctuation were measured and discarded.
-  [`references/provenance.md`](references/provenance.md) §1 sets out the control that was applied.
+  [`fidelity-ledger/provenance.md`](fidelity-ledger/provenance.md) §1 sets out the control that was applied.
 - **Test status, in brief:** cost-presence and voice-purity gates **pass**; the style-match test is
   **not passed but diagnosed** — re-run against `voice.md`, it showed that the corpus's expression
   variance is driven more by literary *form* (bare query / treatise / dialogue / letter) than by
   operation, so an operation-level average is a blend of registers that never co-occur. `voice.md`
   was rebuilt around a form table because of it. The projection test was run but **is not blinded**
   and its score should not be read as a fidelity number. Full results and caveats in
-  `provenance.md` §5.
+  `fidelity-ledger/provenance.md` §5.
 - **Measure against a named text, not a cluster.** A cluster mean averages *Aetia Romana* (first
   person 3.2%, 41% of sentences interrogative) with a staged dialogue (30.2%, 7.5%). `voice.md`
   carries single-text anchors for this reason.

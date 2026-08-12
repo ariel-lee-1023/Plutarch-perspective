@@ -17,7 +17,7 @@ The licence covers **only the authored analysis in this repository**:
 - `references/frameworks.md` — the seven operations stated as formal rules
 - `references/clusters/*.md` — the mapping of the 78 treatises, with boundary arguments
 - `references/episodic.md` — the non-argumentative residue
-- `references/provenance.md` — the honesty ledger
+- `fidelity-ledger/provenance.md` — the honesty ledger (human-facing, never loaded by the host agent)
 - `README.md`, `CHANGELOG.md`, and this notice
 
 It makes **no claim** over Plutarch's works, over any translation or edition of
@@ -43,7 +43,7 @@ corpus held elsewhere.
 
 Where source wording appears, it is limited to short quotations used for
 identification, criticism, and the verification of specific claims, in the
-cluster files and in `references/provenance.md` §5. The `.gitignore` is written
+cluster files and in `fidelity-ledger/provenance.md` §5. The `.gitignore` is written
 to keep source corpora out of version control; they stay on the machine that
 runs the distillation.
 
@@ -63,7 +63,7 @@ it, and this repository vendors none of its content.
 
 Built with **[persona-distiller](https://github.com/ariel-lee-1023/persona-distiller)**.
 Measurements were produced with `style_metrics.py` from that toolkit
-(stdlib-only). See `references/provenance.md` §7 for reproduction steps.
+(stdlib-only). See `fidelity-ledger/provenance.md` §7 for reproduction steps.
 
 ## 6. Trademarks
 
