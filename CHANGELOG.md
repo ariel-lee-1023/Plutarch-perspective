@@ -21,6 +21,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   Content unchanged; only the path moved, to `fidelity-ledger/episodic.md`. `SKILL.md`,
   `README.md` (including the repository-layout tree), and `NOTICE.md` updated to point at the new
   location.
+- **"Facts and frame are handled separately" rewritten to name the SOURCE OF TRUTH distinction and
+  the no-narration distinction explicitly.** The paragraph already required retrieving current
+  external information before letting the persona digest it, but did not say that this is a
+  *different mechanism* from the knowledge-base priority retrieval directly above it (which stays
+  inside the Plutarch-Thoughts repository by design), nor that "never break character" governs how
+  a corpus gap is spoken, never whether a genuinely needed external lookup happens. `SKILL.md` now
+  states both distinctions in the paragraph itself.
 
 ### Added
 
