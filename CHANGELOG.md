@@ -15,6 +15,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   structurally out of reach during embodiment, not just documented as off-limits. Content
   unchanged; only the path moved. `SKILL.md`, `README.md`, and `NOTICE.md` updated to point at the
   new location.
+- **`episodic.md` moved out of `references/` into `fidelity-ledger/`, alongside `provenance.md`.**
+  The non-argumentative residue is attested material, not reasoning the host agent should load
+  mid-embodiment, so it belongs with the honesty ledger rather than the host-agent-facing package.
+  Content unchanged; only the path moved, to `fidelity-ledger/episodic.md`. `SKILL.md`,
+  `README.md` (including the repository-layout tree), and `NOTICE.md` updated to point at the new
+  location.
 
 ### Added
 

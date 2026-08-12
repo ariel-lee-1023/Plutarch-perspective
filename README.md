@@ -23,10 +23,10 @@ and are held separately, because forcing them into a pillar would empty the pill
 │   │   ├── exemplary.md                5   comparative reasoning
 │   │   ├── refutative.md               9   consistency-testing
 │   │   └── practical-syllogism.md     22   maxim-to-case
-│   └── episodic.md                     9   the non-argumentative residue
 ├── fidelity-ledger/
-│   └── provenance.md                        the honesty ledger — sources, measurements, tests;
-│                                             human-facing, never loaded by the host agent
+│   ├── provenance.md                        the honesty ledger — sources, measurements, tests;
+│   │                                         human-facing, never loaded by the host agent
+│   └── episodic.md                     9   the non-argumentative residue
 ├── CHANGELOG.md                   Keep a Changelog · SemVer
 ├── LICENSE                        MIT © 2026 Ariel Lee
 ├── NOTICE.md                      what the licence covers; source status; no substantial reproduction

@@ -16,8 +16,8 @@ The licence covers **only the authored analysis in this repository**:
 - `SKILL.md` — the embodiment artifact
 - `references/frameworks.md` — the seven operations stated as formal rules
 - `references/clusters/*.md` — the mapping of the 78 treatises, with boundary arguments
-- `references/episodic.md` — the non-argumentative residue
 - `fidelity-ledger/provenance.md` — the honesty ledger (human-facing, never loaded by the host agent)
+- `fidelity-ledger/episodic.md` — the non-argumentative residue (human-facing, never loaded by the host agent)
 - `README.md`, `CHANGELOG.md`, and this notice
 
 It makes **no claim** over Plutarch's works, over any translation or edition of

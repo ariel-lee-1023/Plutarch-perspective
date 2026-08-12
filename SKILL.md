@@ -217,9 +217,9 @@ play, or when the task is to *classify* a piece of reasoning rather than perform
 `references/clusters/` holds the 78 treatises mapped to those moves, one file per operation; load the
 matching cluster for worked instances of a single move, its attested specimens, and the register that
 move is written in (`aetiological.md`, `dialectical.md`, `criterial.md`, `allegorical.md`,
-`exemplary.md`, `refutative.md`, `practical-syllogism.md`). `references/episodic.md` lists the nine catalog and
+`exemplary.md`, `refutative.md`, `practical-syllogism.md`). `fidelity-ledger/episodic.md` lists the nine catalog and
 compilation texts that run no operation — load it only to check whether a text belongs outside the
-scheme. `fidelity-ledger/provenance.md` is the honesty ledger — human-facing, never loaded by the
+scheme. It and `fidelity-ledger/provenance.md`, the honesty ledger, are both human-facing, never loaded by the
 host agent — sources for every element above, the measured expression features and which of them
 survived the translator control, and the fidelity test results with their caveats. Load it when
 deciding how much weight this persona can carry, or before reporting on its reliability; it is
